@@ -1,0 +1,318 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 220 26% 14%;
+    --foreground: 210 40% 98%;
+
+    --card: 220 26% 14%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 220 26% 14%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 217 91% 60%;
+    --primary-foreground: 220 26% 14%;
+
+    --secondary: 220 26% 18%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 220 26% 18%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217 91% 60%;
+    --accent-foreground: 220 26% 14%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 220 26% 18%;
+    --input: 220 26% 18%;
+    --ring: 217 91% 60%;
+
+    --radius: 0.75rem;
+
+    /* Stadium Theme Colors */
+    --stadium-primary: 217 91% 60%;
+    --stadium-secondary: 142 76% 36%;
+    --stadium-accent: 43 96% 56%;
+    --stadium-light: 210 40% 98%;
+    --stadium-dark: 220 26% 14%;
+    
+    /* Gradients */
+    --gradient-hero: linear-gradient(135deg, hsl(220 26% 14% / 0.9), hsl(217 91% 60% / 0.1));
+    --gradient-button: linear-gradient(135deg, hsl(217 91% 60%), hsl(217 91% 55%));
+    --gradient-overlay: linear-gradient(180deg, hsl(220 26% 14% / 0.7), hsl(220 26% 14% / 0.3));
+
+    /* Shadows */
+    --shadow-stadium: 0 25px 50px -12px hsl(217 91% 60% / 0.3);
+    --shadow-button: 0 10px 30px -5px hsl(217 91% 60% / 0.4);
+    --shadow-text: 2px 2px 4px hsl(220 26% 14% / 0.8);
+
+    /* Animations */
+    --transition-stadium: all 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+    --sidebar-background: 0 0% 98%;
+
+    --sidebar-foreground: 240 5.3% 26.1%;
+
+    --sidebar-primary: 240 5.9% 10%;
+
+    --sidebar-primary-foreground: 0 0% 98%;
+
+    --sidebar-accent: 240 4.8% 95.9%;
+
+    --sidebar-accent-foreground: 240 5.9% 10%;
+
+    --sidebar-border: 220 13% 91%;
+
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 220 26% 14%;
+    --foreground: 210 40% 98%;
+
+    --card: 220 26% 14%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 220 26% 14%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 217 91% 60%;
+    --primary-foreground: 220 26% 14%;
+
+    --secondary: 220 26% 18%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 220 26% 18%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217 91% 60%;
+    --accent-foreground: 220 26% 14%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 220 26% 18%;
+    --input: 220 26% 18%;
+    --ring: 217 91% 60%;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  }
+
+  /* Professional Gaming Typography */
+  .font-gaming {
+    font-family: 'Orbitron', monospace;
+  }
+
+  .font-display {
+    font-family: 'Rajdhani', sans-serif;
+  }
+
+  .font-body {
+    font-family: 'Inter', sans-serif;
+  }
+
+  /* Stadium Theme Components */
+  .stadium-gradient {
+    background: var(--gradient-hero);
+  }
+
+  .stadium-button {
+    background: var(--gradient-button);
+    box-shadow: var(--shadow-button);
+    transition: var(--transition-smooth);
+  }
+
+  .stadium-button:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-stadium);
+  }
+
+  .stadium-title {
+    text-shadow: var(--shadow-text);
+    background: linear-gradient(135deg, hsl(var(--stadium-light)), hsl(var(--stadium-primary)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .stadium-overlay {
+    background: var(--gradient-overlay);
+  }
+
+  /* Professional Gaming UI Components */
+  .gaming-card {
+    background: linear-gradient(145deg, hsl(var(--card)), hsl(var(--card) / 0.8));
+    border: 1px solid hsl(var(--border) / 0.3);
+    backdrop-filter: blur(10px);
+    box-shadow: 
+      0 8px 32px hsl(var(--stadium-primary) / 0.1),
+      inset 0 1px 0 hsl(var(--stadium-light) / 0.1);
+  }
+
+  .gaming-card:hover {
+    border-color: hsl(var(--stadium-primary) / 0.5);
+    box-shadow: 
+      0 12px 40px hsl(var(--stadium-primary) / 0.2),
+      inset 0 1px 0 hsl(var(--stadium-light) / 0.2);
+  }
+
+  .gaming-button {
+    background: linear-gradient(135deg, hsl(var(--stadium-primary)), hsl(var(--stadium-primary) / 0.8));
+    border: 1px solid hsl(var(--stadium-primary) / 0.3);
+    box-shadow: 
+      0 4px 16px hsl(var(--stadium-primary) / 0.3),
+      inset 0 1px 0 hsl(var(--stadium-light) / 0.2);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .gaming-button:hover {
+    background: linear-gradient(135deg, hsl(var(--stadium-primary) / 0.9), hsl(var(--stadium-primary)));
+    transform: translateY(-2px);
+    box-shadow: 
+      0 8px 24px hsl(var(--stadium-primary) / 0.4),
+      inset 0 1px 0 hsl(var(--stadium-light) / 0.3);
+  }
+
+  .gaming-button:active {
+    transform: translateY(0);
+    box-shadow: 
+      0 2px 8px hsl(var(--stadium-primary) / 0.3),
+      inset 0 1px 0 hsl(var(--stadium-light) / 0.1);
+  }
+
+  .gaming-outline-button {
+    background: transparent;
+    border: 2px solid hsl(var(--stadium-primary) / 0.5);
+    color: hsl(var(--stadium-primary));
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .gaming-outline-button:hover {
+    background: hsl(var(--stadium-primary) / 0.1);
+    border-color: hsl(var(--stadium-primary));
+    box-shadow: 0 0 20px hsl(var(--stadium-primary) / 0.3);
+  }
+
+  .gaming-header {
+    background: linear-gradient(135deg, hsl(var(--background)), hsl(var(--background) / 0.95));
+    border-bottom: 1px solid hsl(var(--border) / 0.3);
+    backdrop-filter: blur(10px);
+  }
+
+  .gaming-progress {
+    background: hsl(var(--muted));
+    border-radius: 9999px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .gaming-progress::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(90deg, 
+      hsl(var(--stadium-primary)), 
+      hsl(var(--stadium-accent)), 
+      hsl(var(--stadium-primary))
+    );
+    background-size: 200% 100%;
+    animation: shimmer 2s ease-in-out infinite;
+  }
+
+  @keyframes shimmer {
+    0%, 100% { background-position: 200% 0; }
+    50% { background-position: -200% 0; }
+  }
+
+  .gaming-badge {
+    background: linear-gradient(135deg, hsl(var(--stadium-accent)), hsl(var(--stadium-accent) / 0.8));
+    border: 1px solid hsl(var(--stadium-accent) / 0.3);
+    color: hsl(var(--stadium-dark));
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .gaming-text-gradient {
+    background: linear-gradient(135deg, hsl(var(--stadium-light)), hsl(var(--stadium-primary)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .gaming-glow {
+    box-shadow: 0 0 20px hsl(var(--stadium-primary) / 0.3);
+  }
+
+  .gaming-glow:hover {
+    box-shadow: 0 0 30px hsl(var(--stadium-primary) / 0.5);
+  }
+
+  /* Animations */
+  .animate-fade-in {
+    animation: fadeIn 0.8s ease-out;
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.8s ease-out 0.2s both;
+  }
+
+  .animate-pulse-glow {
+    animation: pulseGlow 2s ease-in-out infinite;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  @keyframes slideUp {
+    from { 
+      opacity: 0; 
+      transform: translateY(30px); 
+    }
+    to { 
+      opacity: 1; 
+      transform: translateY(0); 
+    }
+  }
+
+  @keyframes pulseGlow {
+    0%, 100% { 
+      filter: drop-shadow(0 0 5px hsl(var(--stadium-accent) / 0.5));
+    }
+    50% { 
+      filter: drop-shadow(0 0 20px hsl(var(--stadium-accent) / 0.8));
+    }
+  }
+}
