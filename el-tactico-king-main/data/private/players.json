@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "ARV_P01",
+    "name": " Davian Raya",
+    "team": " London Red",
+    "position": " GK",
+    "baseRating": 88
+  },
+  {
+    "id": "ARV_P02",
+    "name": " Kepa Arrizalvo",
+    "team": " London Red",
+    "position": " GK",
+    "baseRating": 74
+  },
+  {
+    "id": "ARV_P03",
+    "name": " Karl Heinson",
+    "team": " London Red",
+    "position": " GK",
+    "baseRating": 71
+  },
+  {
+    "id": "ARV_P04",
+    "name": " William Saladino",
+    "team": " London Red",
+    "position": " CB",
+    "baseRating": 94
+  },
+  {
+    "id": "ARV_P05",
+    "name": " Gabriel Magallero",
+    "team": " London Red",
+    "position": " CB",
+    "baseRating": 93
+  },
+  {
+    "id": "ARV_P06",
+    "name": " Jakub Kiwanski",
+    "team": " London Red",
+    "position": " CB",
+    "baseRating": 83
+  },
+  {
+    "id": "ARV_P07",
+    "name": " Reece Calafori",
+    "team": " London Red",
+    "position": " LB",
+    "baseRating": 86
+  },
+  {
+    "id": "ARV_P08",
+    "name": " Myles Lewinsky",
+    "team": " London Red",
+    "position": " CM",
+    "baseRating": 80
+  },
+  {
+    "id": "ARV_P09",
+    "name": " Declan Pasta",
+    "team": " London Red",
+    "position": " DM",
+    "baseRating": 93
+  },
+  {
+    "id": "ARV_P10",
+    "name": " Martin Odegran",
+    "team": " London Red",
+    "position": " AM",
+    "baseRating": 88
+  },
+  {
+    "id": "ARV_P11",
+    "name": " Michael Medino",
+    "team": " London Red",
+    "position": " CM",
+    "baseRating": 86
+  },
+  {
+    "id": "ARV_P12",
+    "name": " Samba Loko",
+    "team": " London Red",
+    "position": " CM",
+    "baseRating": 72
+  },
+  {
+    "id": "ARV_P13",
+    "name": " Mark Zuub",
+    "team": " London Red",
+    "position": " DM",
+    "baseRating": 89
+  },
+  {
+    "id": "ARV_P14",
+    "name": " Bukayo Adeyemi",
+    "team": " London Red",
+    "position": " RW",
+    "baseRating": 94
+  },
+  {
+    "id": "ARV_P15",
+    "name": " Nellinho",
+    "team": " London Red",
+    "position": " LW",
+    "baseRating": 83
+  },
+  {
+    "id": "ARV_P16",
+    "name": " Vikk Gyokerson",
+    "team": " London Red",
+    "position": " ST",
+    "baseRating": 85
+  },
+  {
+    "id": "ARV_P17",
+    "name": " Lala Trossano",
+    "team": " London Red",
+    "position": " LW",
+    "baseRating": 85
+  },
+  {
+    "id": "ARV_P18",
+    "name": " Noni Moni",
+    "team": " London Red",
+    "position": " RW",
+    "baseRating": 83
+  },
+  {
+    "id": "ARV_P19",
+    "name": " Kai Van Hav",
+    "team": " London Red",
+    "position": " ST",
+    "baseRating": 89
+  },
+  {
+    "id": "ARV_P20",
+    "name": " Ethan Neri",
+    "team": " London Red",
+    "position": " AM",
+    "baseRating": 80
+  },
+  {
+    "id": "LONB_P01",
+    "name": " Roberto Sancho",
+    "team": " London Blues",
+    "position": " GK",
+    "baseRating": 83
+  },
+  {
+    "id": "LONB_P02",
+    "name": " Filip Jorgental",
+    "team": " London Blues",
+    "position": " GK",
+    "baseRating": 73
+  },
+  {
+    "id": "LONB_P03",
+    "name": " Reece Jamesson",
+    "team": " London Blues",
+    "position": " RB",
+    "baseRating": 88
+  },
+  {
+    "id": "LONB_P04",
+    "name": " Marc Cucurietta",
+    "team": " London Blues",
+    "position": " LB",
+    "baseRating": 87
+  },
+  {
+    "id": "LONB_P05",
+    "name": " Levi Colwelling",
+    "team": " London Blues",
+    "position": " CB",
+    "baseRating": 85
+  },
+  {
+    "id": "LONB_P06",
+    "name": " Benedict Shield",
+    "team": " London Blues",
+    "position": " CB",
+    "baseRating": 78
+  },
+  {
+    "id": "LONB_P07",
+    "name": " Wesley Fofanaro",
+    "team": " London Blues",
+    "position": " CB",
+    "baseRating": 83
+  },
+  {
+    "id": "LONB_P08",
+    "name": " Tosin Adtarbio",
+    "team": " London Blues",
+    "position": " CB",
+    "baseRating": 80
+  },
+  {
+    "id": "LONB_P09",
+    "name": " Moise Moises",
+    "team": " London Blues",
+    "position": " DM",
+    "baseRating": 91
+  },
+  {
+    "id": "LONB_P10",
+    "name": " Enny Fernz",
+    "team": " London Blues",
+    "position": " CM",
+    "baseRating": 89
+  },
+  {
+    "id": "LONB_P11",
+    "name": " Rome Lavius",
+    "team": " London Blues",
+    "position": " DM",
+    "baseRating": 85
+  },
+  {
+    "id": "LONB_P12",
+    "name": " Andrei Sant",
+    "team": " London Blues",
+    "position": " CM",
+    "baseRating": 82
+  },
+  {
+    "id": "LONB_P13",
+    "name": " Cole Palms",
+    "team": " London Blues",
+    "position": " AM",
+    "baseRating": 93
+  },
+  {
+    "id": "LONB_P14",
+    "name": " Myhailo Mudrino",
+    "team": " London Blues",
+    "position": " LW",
+    "baseRating": 80
+  },
+  {
+    "id": "LONB_P15",
+    "name": " John Gittentino",
+    "team": " London Blues",
+    "position": " LW",
+    "baseRating": 81
+  },
+  {
+    "id": "LONB_P16",
+    "name": " Esteinho",
+    "team": " London Blues",
+    "position": " RW",
+    "baseRating": 84
+  },
+  {
+    "id": "LONB_P17",
+    "name": " Michael Jackson",
+    "team": " London Blues",
+    "position": " ST",
+    "baseRating": 83
+  },
+  {
+    "id": "LONB_P18",
+    "name": " Liam Rap",
+    "team": " London Blues",
+    "position": " ST",
+    "baseRating": 83
+  },
+  {
+    "id": "LONB_P19",
+    "name": " João Pinho",
+    "team": " London Blues",
+    "position": " ST",
+    "baseRating": 86
+  },
+  {
+    "id": "LONB_P20",
+    "name": " Jefferey Hato",
+    "team": " London Blues",
+    "position": " LB",
+    "baseRating": 79
+  },
+  {
+    "id": "MANR_P01",
+    "name": " Andre Onyana",
+    "team": " Manchester Reds",
+    "position": " GK",
+    "baseRating": 72
+  },
+  {
+    "id": "MANR_P02",
+    "name": " Altay Baydaro",
+    "team": " Manchester Reds",
+    "position": " GK",
+    "baseRating": 74
+  },
+  {
+    "id": "MANR_P03",
+    "name": " Diogo Daloto",
+    "team": " Manchester Reds",
+    "position": " RB",
+    "baseRating": 80
+  },
+  {
+    "id": "MANR_P04",
+    "name": " Nick Mazraouy",
+    "team": " Manchester Reds",
+    "position": " RB",
+    "baseRating": 81
+  },
+  {
+    "id": "MANR_P05",
+    "name": " Matthijs De Ligtan",
+    "team": " Manchester Reds",
+    "position": " CB",
+    "baseRating": 83
+  },
+  {
+    "id": "MANR_P06",
+    "name": " Harry Maguireto",
+    "team": " Manchester Reds",
+    "position": " CB",
+    "baseRating": 85
+  },
+  {
+    "id": "MANR_P07",
+    "name": " Leny Yorano",
+    "team": " Manchester Reds",
+    "position": " CB",
+    "baseRating": 85
+  },
+  {
+    "id": "MANR_P08",
+    "name": " Luke Shawell",
+    "team": " Manchester Reds",
+    "position": " LB",
+    "baseRating": 80
+  },
+  {
+    "id": "MANR_P09",
+    "name": " Tyrell Malasio",
+    "team": " Manchester Reds",
+    "position": " LB",
+    "baseRating": 72
+  },
+  {
+    "id": "MANR_P10",
+    "name": " Caseminho",
+    "team": " Manchester Reds",
+    "position": " DM",
+    "baseRating": 75
+  },
+  {
+    "id": "MANR_P11",
+    "name": " Kobbie Mainoro",
+    "team": " Manchester Reds",
+    "position": " CM",
+    "baseRating": 82
+  },
+  {
+    "id": "MANR_P12",
+    "name": " Mason Mountley",
+    "team": " Manchester Reds",
+    "position": " CM",
+    "baseRating": 74
+  },
+  {
+    "id": "MANR_P13",
+    "name": " Broon ",
+    "team": " Manchester Reds",
+    "position": " AM",
+    "baseRating": 92
+  },
+  {
+    "id": "MANR_P14",
+    "name": " Manny Ugarteko",
+    "team": " Manchester Reds",
+    "position": " DM",
+    "baseRating": 77
+  },
+  {
+    "id": "MANR_P15",
+    "name": " Reginald Hojlundo",
+    "team": " Manchester Reds",
+    "position": " ST",
+    "baseRating": 79
+  },
+  {
+    "id": "MANR_P16",
+    "name": " Joshua Zirkzay",
+    "team": " Manchester Reds",
+    "position": " ST",
+    "baseRating": 83
+  },
+  {
+    "id": "MANR_P17",
+    "name": " Matheus Cunhado",
+    "team": " Manchester Reds",
+    "position": " ST",
+    "baseRating": 87
+  },
+  {
+    "id": "MANR_P18",
+    "name": " Amad Jones",
+    "team": " Manchester Reds",
+    "position": " RW",
+    "baseRating": 83
+  },
+  {
+    "id": "MANR_P19",
+    "name": " Benjamin Shesk",
+    "team": " Manchester Reds",
+    "position": " ST",
+    "baseRating": 84
+  },
+  {
+    "id": "MANR_P20",
+    "name": "Garnahino",
+    "team": " Manchester Reds",
+    "position": " LW",
+    "baseRating": 80
+  },
+  {
+    "id": "MCBL_P01",
+    "name": " Edersono",
+    "team": " Manchester Blues",
+    "position": " GK",
+    "baseRating": 82
+  },
+  {
+    "id": "MCBL_P02",
+    "name": " James Traffordi",
+    "team": " Manchester Blues",
+    "position": " GK",
+    "baseRating": 81
+  },
+  {
+    "id": "MCBL_P03",
+    "name": " Stefan Ortegara",
+    "team": " Manchester Blues",
+    "position": " GK",
+    "baseRating": 83
+  },
+  {
+    "id": "MCBL_P04",
+    "name": " Ruben Diasal",
+    "team": " Manchester Blues",
+    "position": " CB",
+    "baseRating": 84
+  },
+  {
+    "id": "MCBL_P05",
+    "name": " John Stonese",
+    "team": " Manchester Blues",
+    "position": " CB",
+    "baseRating": 86
+  },
+  {
+    "id": "MCBL_P06",
+    "name": " Jeff Gvard",
+    "team": " Manchester Blues",
+    "position": " CB",
+    "baseRating": 90
+  },
+  {
+    "id": "MCBL_P07",
+    "name": " Nathan Aketon",
+    "team": " Manchester Blues",
+    "position": " CB",
+    "baseRating": 82
+  },
+  {
+    "id": "MCBL_P08",
+    "name": " Melo Akanjia",
+    "team": " Manchester Blues",
+    "position": " CB",
+    "baseRating": 84
+  },
+  {
+    "id": "MCBL_P09",
+    "name": " Tyrico Lewison",
+    "team": " Manchester Blues",
+    "position": " RB",
+    "baseRating": 79
+  },
+  {
+    "id": "MCBL_P10",
+    "name": " Ray Ail-Noradis",
+    "team": " Manchester Blues",
+    "position": " LB",
+    "baseRating": 84
+  },
+  {
+    "id": "MCBL_P11",
+    "name": " Rodriano",
+    "team": " Manchester Blues",
+    "position": " DM",
+    "baseRating": 92
+  },
+  {
+    "id": "MCBL_P12",
+    "name": " Ben Silvado",
+    "team": " Manchester Blues",
+    "position": " AM",
+    "baseRating": 86
+  },
+  {
+    "id": "MCBL_P13",
+    "name": " Walter Fodera",
+    "team": " Manchester Blues",
+    "position": " AM",
+    "baseRating": 88
+  },
+  {
+    "id": "MCBL_P14",
+    "name": " Jack Greal",
+    "team": " Manchester Blues",
+    "position": " LW",
+    "baseRating": 82
+  },
+  {
+    "id": "MCBL_P15",
+    "name": " Mateo Kova",
+    "team": " Manchester Blues",
+    "position": " CM",
+    "baseRating": 80
+  },
+  {
+    "id": "MCBL_P16",
+    "name": " Matheus Nuneski",
+    "team": " Manchester Blues",
+    "position": " CM",
+    "baseRating": 79
+  },
+  {
+    "id": "MCBL_P17",
+    "name": " Erling HaaHaa",
+    "team": " Manchester Blues",
+    "position": " ST",
+    "baseRating": 96
+  },
+  {
+    "id": "MCBL_P18",
+    "name": " Joshua Dokuva",
+    "team": " Manchester Blues",
+    "position": " RW",
+    "baseRating": 86
+  },
+  {
+    "id": "MCBL_P19",
+    "name": "Savv",
+    "team": " Manchester Blues",
+    "position": " LW",
+    "baseRating": 84
+  },
+  {
+    "id": "MCBL_P20",
+    "name": " Oscar Bobbelli",
+    "team": " Manchester Blues",
+    "position": " RW",
+    "baseRating": 75
+  },
+  {
+    "id": "SCOS_P01",
+    "name": " Alisson Betker",
+    "team": " Scousers",
+    "position": " GK",
+    "baseRating": 94
+  },
+  {
+    "id": "SCOS_P02",
+    "name": " Giorgi Marelashvili",
+    "team": " Scousers",
+    "position": " GK",
+    "baseRating": 84
+  },
+  {
+    "id": "SCOS_P03",
+    "name": " Freddie Woodmani",
+    "team": " Scousers",
+    "position": " GK",
+    "baseRating": 73
+  },
+  {
+    "id": "SCOS_P04",
+    "name": " Virgil Vandi",
+    "team": " Scousers",
+    "position": " CB",
+    "baseRating": 92
+  },
+  {
+    "id": "SCOS_P05",
+    "name": " Ibrah Konatez",
+    "team": " Scousers",
+    "position": " CB",
+    "baseRating": 83
+  },
+  {
+    "id": "SCOS_P06",
+    "name": " Joe Gomezi",
+    "team": " Scousers",
+    "position": " CB",
+    "baseRating": 80
+  },
+  {
+    "id": "SCOS_P07",
+    "name": " Milos Kerkezo",
+    "team": " Scousers",
+    "position": " LB",
+    "baseRating": 84
+  },
+  {
+    "id": "SCOS_P08",
+    "name": " Conor Braddley",
+    "team": " Scousers",
+    "position": " RB",
+    "baseRating": 84
+  },
+  {
+    "id": "SCOS_P09",
+    "name": " Giovanni Leoniardo",
+    "team": " Scousers",
+    "position": " CB",
+    "baseRating": 75
+  },
+  {
+    "id": "SCOS_P10",
+    "name": " Jeremie Frimponga",
+    "team": " Scousers",
+    "position": " RB",
+    "baseRating": 88
+  },
+  {
+    "id": "SCOS_P11",
+    "name": " Wataru Endozo",
+    "team": " Scousers",
+    "position": " DM",
+    "baseRating": 78
+  },
+  {
+    "id": "SCOS_P12",
+    "name": " Dominik Szoboszlaino",
+    "team": " Scousers",
+    "position": " CM",
+    "baseRating": 86
+  },
+  {
+    "id": "SCOS_P13",
+    "name": " Alexis Mac Allistair",
+    "team": " Scousers",
+    "position": " CM",
+    "baseRating": 89
+  },
+  {
+    "id": "SCOS_P14",
+    "name": " Curtis Joneston",
+    "team": " Scousers",
+    "position": " CM",
+    "baseRating": 81
+  },
+  {
+    "id": "SCOS_P15",
+    "name": " Harvey Elliotte",
+    "team": " Scousers",
+    "position": " AM",
+    "baseRating": 80
+  },
+  {
+    "id": "SCOS_P16",
+    "name": " Mohamed Saloha",
+    "team": " Scousers",
+    "position": " RW",
+    "baseRating": 96
+  },
+  {
+    "id": "SCOS_P17",
+    "name": " Florian Virtzso",
+    "team": " Scousers",
+    "position": " AM",
+    "baseRating": 91
+  },
+  {
+    "id": "SCOS_P18",
+    "name": " Federico Chiesan",
+    "team": " Scousers",
+    "position": " LW",
+    "baseRating": 80
+  },
+  {
+    "id": "SCOS_P19",
+    "name": " Cody Gakporenzo",
+    "team": " Scousers",
+    "position": " LW",
+    "baseRating": 87
+  },
+  {
+    "id": "SCOS_P20",
+    "name": " Hugo Ekitiko",
+    "team": " Scousers",
+    "position": " ST",
+    "baseRating": 88
+  },
+  {
+    "id": "RMAD_P01",
+    "name": " Thibaut Curtis",
+    "team": " 90 Mins is a Long Time",
+    "position": " GK",
+    "baseRating": 94
+  },
+  {
+    "id": "RMAD_P02",
+    "name": " Andy Luninor",
+    "team": " 90 Mins is a Long Time",
+    "position": " GK",
+    "baseRating": 80
+  },
+  {
+    "id": "RMAD_P03",
+    "name": " Dani Carve",
+    "team": " 90 Mins is a Long Time",
+    "position": " RB",
+    "baseRating": 80
+  },
+  {
+    "id": "RMAD_P04",
+    "name": " Eder A Milli",
+    "team": " 90 Mins is a Long Time",
+    "position": " CB",
+    "baseRating": 87
+  },
+  {
+    "id": "RMAD_P05",
+    "name": " Dave Alabama",
+    "team": " 90 Mins is a Long Time",
+    "position": " CB",
+    "baseRating": 83
+  },
+  {
+    "id": "RMAD_P06",
+    "name": " Trenty Alex Anthony",
+    "team": " 90 Mins is a Long Time",
+    "position": " RB",
+    "baseRating": 92
+  },
+  {
+    "id": "RMAD_P07",
+    "name": " Antonio Ruud",
+    "team": " 90 Mins is a Long Time",
+    "position": " CB",
+    "baseRating": 89
+  },
+  {
+    "id": "RMAD_P08",
+    "name": " Mendyo",
+    "team": " 90 Mins is a Long Time",
+    "position": " LB",
+    "baseRating": 81
+  },
+  {
+    "id": "RMAD_P09",
+    "name": " Dean Hui",
+    "team": " 90 Mins is a Long Time",
+    "position": " CB",
+    "baseRating": 86
+  },
+  {
+    "id": "RMAD_P10",
+    "name": " Jo Bellingmano",
+    "team": " 90 Mins is a Long Time",
+    "position": " AM",
+    "baseRating": 94
+  },
+  {
+    "id": "RMAD_P11",
+    "name": " Edu Cama",
+    "team": " 90 Mins is a Long Time",
+    "position": " CM",
+    "baseRating": 88
+  },
+  {
+    "id": "RMAD_P12",
+    "name": " Ford Valverdelo",
+    "team": " 90 Mins is a Long Time",
+    "position": " CM",
+    "baseRating": 92
+  },
+  {
+    "id": "RMAD_P13",
+    "name": " Aba Tchouamener",
+    "team": " 90 Mins is a Long Time",
+    "position": " DM",
+    "baseRating": 85
+  },
+  {
+    "id": "RMAD_P14",
+    "name": " Amad Guleran",
+    "team": " 90 Mins is a Long Time",
+    "position": " AM",
+    "baseRating": 85
+  },
+  {
+    "id": "RMAD_P15",
+    "name": " Dani Cellyba",
+    "team": " 90 Mins is a Long Time",
+    "position": " CM",
+    "baseRating": 78
+  },
+  {
+    "id": "RMAD_P16",
+    "name": "Vinihino",
+    "team": " 90 Mins is a Long Time",
+    "position": " LW",
+    "baseRating": 90
+  },
+  {
+    "id": "RMAD_P17",
+    "name": "Killy Frappe",
+    "team": " 90 Mins is a Long Time",
+    "position": " ST",
+    "baseRating": 96
+  },
+  {
+    "id": "RMAD_P18",
+    "name": " Rodyrgomanto",
+    "team": " 90 Mins is a Long Time",
+    "position": " RW",
+    "baseRating": 90
+  },
+  {
+    "id": "RMAD_P19",
+    "name": " Endrodrick",
+    "team": " 90 Mins is a Long Time",
+    "position": " ST",
+    "baseRating": 84
+  },
+  {
+    "id": "RMAD_P20",
+    "name": " Frank Masta",
+    "team": " 90 Mins is a Long Time",
+    "position": " AM",
+    "baseRating": 78
+  },
+  {
+    "id": "REGF_P01",
+    "name": " Marc-Andre Ter Stegino",
+    "team": " Register FC",
+    "position": " GK",
+    "baseRating": 80
+  },
+  {
+    "id": "REGF_P02",
+    "name": "Joao Garcia",
+    "team": " Register FC",
+    "position": " GK",
+    "baseRating": 87
+  },
+  {
+    "id": "REGF_P03",
+    "name": " Woj Sceshz",
+    "team": " Register FC",
+    "position": " GK",
+    "baseRating": 81
+  },
+  {
+    "id": "REGF_P04",
+    "name": " Pau Barsi",
+    "team": " Register FC",
+    "position": " CB",
+    "baseRating": 85
+  },
+  {
+    "id": "REGF_P05",
+    "name": " Ally Baldeo",
+    "team": " Register FC",
+    "position": " LB",
+    "baseRating": 87
+  },
+  {
+    "id": "REGF_P06",
+    "name": " Cristiano Araúzo",
+    "team": " Register FC",
+    "position": " CB",
+    "baseRating": 86
+  },
+  {
+    "id": "REGF_P07",
+    "name": " Andy Christens",
+    "team": " Register FC",
+    "position": " CB",
+    "baseRating": 82
+  },
+  {
+    "id": "REGF_P08",
+    "name": " Jules Koule",
+    "team": " Register FC",
+    "position": " CB",
+    "baseRating": 90
+  },
+  {
+    "id": "REGF_P09",
+    "name": " Eric Garrassa",
+    "team": " Register FC",
+    "position": " CB",
+    "baseRating": 79
+  },
+  {
+    "id": "REGF_P10",
+    "name": " Gaviño",
+    "team": " Register FC",
+    "position": " CM",
+    "baseRating": 86
+  },
+  {
+    "id": "REGF_P11",
+    "name": " Pedriano",
+    "team": " Register FC",
+    "position": " CM",
+    "baseRating": 92
+  },
+  {
+    "id": "REGF_P12",
+    "name": " Fermin Lopezo",
+    "team": " Register FC",
+    "position": " AM",
+    "baseRating": 85
+  },
+  {
+    "id": "REGF_P13",
+    "name": " Marc Casadoy",
+    "team": " Register FC",
+    "position": " DM",
+    "baseRating": 78
+  },
+  {
+    "id": "REGF_P14",
+    "name": " Daniel Olmora",
+    "team": " Register FC",
+    "position": " AM",
+    "baseRating": 86
+  },
+  {
+    "id": "REGF_P15",
+    "name": " Frank Jong",
+    "team": " Register FC",
+    "position": " CM",
+    "baseRating": 90
+  },
+  {
+    "id": "REGF_P16",
+    "name": " Derran Torr",
+    "team": " Register FC",
+    "position": " LW",
+    "baseRating": 85
+  },
+  {
+    "id": "REGF_P17",
+    "name": " Bob LeDowski",
+    "team": " Register FC",
+    "position": " ST",
+    "baseRating": 89
+  },
+  {
+    "id": "REGF_P18",
+    "name": "  Yamalito",
+    "team": " Register FC",
+    "position": " RW",
+    "baseRating": 95
+  },
+  {
+    "id": "REGF_P19",
+    "name": " Raphinhão",
+    "team": " Register FC",
+    "position": " RW",
+    "baseRating": 88
+  },
+  {
+    "id": "REGF_P20",
+    "name": " Mark Rash",
+    "team": " Register FC",
+    "position": " LW",
+    "baseRating": 86
+  },
+  {
+    "id": "BUND_P01",
+    "name": " Manuel Nuerlero",
+    "team": " The Bundesliga Team",
+    "position": " GK",
+    "baseRating": 80
+  },
+  {
+    "id": "BUND_P02",
+    "name": " Sven Ulreicho",
+    "team": " The Bundesliga Team",
+    "position": " GK",
+    "baseRating": 80
+  },
+  {
+    "id": "BUND_P03",
+    "name": " Jonas Urbigo",
+    "team": " The Bundesliga Team",
+    "position": " GK",
+    "baseRating": 76
+  },
+  {
+    "id": "BUND_P04",
+    "name": " Days Upamecani",
+    "team": " The Bundesliga Team",
+    "position": " CB",
+    "baseRating": 83
+  },
+  {
+    "id": "BUND_P05",
+    "name": " Minjae Kimo",
+    "team": " The Bundesliga Team",
+    "position": " CB",
+    "baseRating": 82
+  },
+  {
+    "id": "BUND_P06",
+    "name": " Jack Tahler",
+    "team": " The Bundesliga Team",
+    "position": " CB",
+    "baseRating": 88
+  },
+  {
+    "id": "BUND_P07",
+    "name": " Phonny Daviers",
+    "team": " The Bundesliga Team",
+    "position": " LB",
+    "baseRating": 86
+  },
+  {
+    "id": "BUND_P08",
+    "name": " Hiroki Itoda",
+    "team": " The Bundesliga Team",
+    "position": " CB",
+    "baseRating": 83
+  },
+  {
+    "id": "BUND_P09",
+    "name": " Raphael Gerr",
+    "team": " The Bundesliga Team",
+    "position": " LB",
+    "baseRating": 84
+  },
+  {
+    "id": "BUND_P10",
+    "name": " Sash Boeyo",
+    "team": " The Bundesliga Team",
+    "position": " RB",
+    "baseRating": 80
+  },
+  {
+    "id": "BUND_P11",
+    "name": " Josh Kimming",
+    "team": " The Bundesliga Team",
+    "position": " DM",
+    "baseRating": 91
+  },
+  {
+    "id": "BUND_P12",
+    "name": " Leon Garetzko",
+    "team": " The Bundesliga Team",
+    "position": " CM",
+    "baseRating": 83
+  },
+  {
+    "id": "BUND_P13",
+    "name": " Jamal Musialelonga",
+    "team": " The Bundesliga Team",
+    "position": " AM",
+    "baseRating": 91
+  },
+  {
+    "id": "BUND_P14",
+    "name": " Konrad Laimerich",
+    "team": " The Bundesliga Team",
+    "position": " CM",
+    "baseRating": 84
+  },
+  {
+    "id": "BUND_P15",
+    "name": " Aleksandar Pavlovico",
+    "team": " The Bundesliga Team",
+    "position": " CM",
+    "baseRating": 82
+  },
+  {
+    "id": "BUND_P16",
+    "name": " Paul Wanners",
+    "team": " The Bundesliga Team",
+    "position": " AM",
+    "baseRating": 78
+  },
+  {
+    "id": "BUND_P17",
+    "name": " Harold Kaner",
+    "team": " The Bundesliga Team",
+    "position": " ST",
+    "baseRating": 93
+  },
+  {
+    "id": "BUND_P18",
+    "name": " Sergei Gnabryko",
+    "team": " The Bundesliga Team",
+    "position": " RW",
+    "baseRating": 85
+  },
+  {
+    "id": "BUND_P19",
+    "name": " Luish Deesh",
+    "team": " The Bundesliga Team",
+    "position": " LW",
+    "baseRating": 86
+  },
+  {
+    "id": "BUND_P20",
+    "name": " Mike Olisey",
+    "team": " The Bundesliga Team",
+    "position": " RW",
+    "baseRating": 90
+  },
+  {
+    "id": "CROIS_P01",
+    "name": "GianLuigi Mario",
+    "team": " Croissant FC",
+    "position": " GK",
+    "baseRating": 90
+  },
+  {
+    "id": "CROIS_P02",
+    "name": " Lucas Chevaliero",
+    "team": " Croissant FC",
+    "position": " GK",
+    "baseRating": 82
+  },
+  {
+    "id": "CROIS_P03",
+    "name": " Matvey Safonov",
+    "team": " Croissant FC",
+    "position": " GK",
+    "baseRating": 81
+  },
+  {
+    "id": "CROIS_P04",
+    "name": " Achraf Hakimino",
+    "team": " Croissant FC",
+    "position": " RB",
+    "baseRating": 91
+  },
+  {
+    "id": "CROIS_P05",
+    "name": " Presnel Kimpembéson",
+    "team": " Croissant FC",
+    "position": " CB",
+    "baseRating": 81
+  },
+  {
+    "id": "CROIS_P06",
+    "name": "  Beraldinho",
+    "team": " Croissant FC",
+    "position": " CB",
+    "baseRating": 82
+  },
+  {
+    "id": "CROIS_P07",
+    "name": " Marquinhosinho",
+    "team": " Croissant FC",
+    "position": " CB",
+    "baseRating": 85
+  },
+  {
+    "id": "CROIS_P08",
+    "name": " Illia Zabarny",
+    "team": " Croissant FC",
+    "position": " CB",
+    "baseRating": 82
+  },
+  {
+    "id": "CROIS_P09",
+    "name": " Lucas Hernandezao",
+    "team": " Croissant FC",
+    "position": " LB",
+    "baseRating": 84
+  },
+  {
+    "id": "CROIS_P10",
+    "name": "  Mendesinho",
+    "team": " Croissant FC",
+    "position": " LB",
+    "baseRating": 90
+  },
+  {
+    "id": "CROIS_P11",
+    "name": " Fabian Ruizo",
+    "team": " Croissant FC",
+    "position": " CM",
+    "baseRating": 84
+  },
+  {
+    "id": "CROIS_P12",
+    "name": " Vitinhaio",
+    "team": " Croissant FC",
+    "position": " CM",
+    "baseRating": 89
+  },
+  {
+    "id": "CROIS_P13",
+    "name": " King-In Leao",
+    "team": " Croissant FC",
+    "position": " AM",
+    "baseRating": 80
+  },
+  {
+    "id": "CROIS_P14",
+    "name": " Senny Muyulo",
+    "team": " Croissant FC",
+    "position": " AM",
+    "baseRating": 77
+  },
+  {
+    "id": "CROIS_P15",
+    "name": " Warren Zaire-Wade",
+    "team": " Croissant FC",
+    "position": " CM",
+    "baseRating": 84
+  },
+  {
+    "id": "CROIS_P16",
+    "name": " João Nevsh",
+    "team": " Croissant FC",
+    "position": " DM",
+    "baseRating": 88
+  },
+  {
+    "id": "CROIS_P17",
+    "name": " Karl Kvarasel",
+    "team": " Croissant FC",
+    "position": " LW",
+    "baseRating": 90
+  },
+  {
+    "id": "CROIS_P18",
+    "name": " Cristiano Ramoso",
+    "team": " Croissant FC",
+    "position": " ST",
+    "baseRating": 82
+  },
+  {
+    "id": "CROIS_P19",
+    "name": " Marcus Dembeleau",
+    "team": " Croissant FC",
+    "position": " RW",
+    "baseRating": 90
+  },
+  {
+    "id": "CROIS_P20",
+    "name": " Barry Barcolan",
+    "team": " Croissant FC",
+    "position": " RW",
+    "baseRating": 85
+  },
+  {
+    "id": "PTB_P01",
+    "name": " Jan Oblakadro",
+    "team": " Park the Bus",
+    "position": " GK",
+    "baseRating": 88
+  },
+  {
+    "id": "PTB_P02",
+    "name": " Juan Mussona",
+    "team": " Park the Bus",
+    "position": " GK",
+    "baseRating": 80
+  },
+  {
+    "id": "PTB_P03",
+    "name": " Jose Gimenezco",
+    "team": " Park the Bus",
+    "position": " CB",
+    "baseRating": 84
+  },
+  {
+    "id": "PTB_P04",
+    "name": " Matteo Ruggerio",
+    "team": " Park the Bus",
+    "position": " LB",
+    "baseRating": 80
+  },
+  {
+    "id": "PTB_P05",
+    "name": " Clement Lengleto",
+    "team": " Park the Bus",
+    "position": " CB",
+    "baseRating": 80
+  },
+  {
+    "id": "PTB_P06",
+    "name": " Nathan Molinaro",
+    "team": " Park the Bus",
+    "position": " RB",
+    "baseRating": 85
+  },
+  {
+    "id": "PTB_P07",
+    "name": " Dave Hanckor",
+    "team": " Park the Bus",
+    "position": " CB",
+    "baseRating": 84
+  },
+  {
+    "id": "PTB_P08",
+    "name": " Marc Pubillo",
+    "team": " Park the Bus",
+    "position": " RB",
+    "baseRating": 80
+  },
+  {
+    "id": "PTB_P09",
+    "name": " Javi Galando",
+    "team": " Park the Bus",
+    "position": " LB",
+    "baseRating": 80
+  },
+  {
+    "id": "PTB_P10",
+    "name": " Robin Lenormando",
+    "team": " Park the Bus",
+    "position": " CB",
+    "baseRating": 85
+  },
+  {
+    "id": "PTB_P11",
+    "name": " Kokealito",
+    "team": " Park the Bus",
+    "position": " CM",
+    "baseRating": 86
+  },
+  {
+    "id": "PTB_P12",
+    "name": " Pablo Barrioso",
+    "team": " Park the Bus",
+    "position": " CM",
+    "baseRating": 82
+  },
+  {
+    "id": "PTB_P13",
+    "name": " Alex Baenaro",
+    "team": " Park the Bus",
+    "position": " AM",
+    "baseRating": 84
+  },
+  {
+    "id": "PTB_P14",
+    "name": " Marcos Llorento",
+    "team": " Park the Bus",
+    "position": " RM",
+    "baseRating": 86
+  },
+  {
+    "id": "PTB_P15",
+    "name": " Johnny Cardose",
+    "team": " Park the Bus",
+    "position": " DM",
+    "baseRating": 82
+  },
+  {
+    "id": "PTB_P16",
+    "name": " Connor Gallaguer",
+    "team": " Park the Bus",
+    "position": " CM",
+    "baseRating": 84
+  },
+  {
+    "id": "PTB_P17",
+    "name": " Antoine Griezmanno",
+    "team": " Park the Bus",
+    "position": " SS",
+    "baseRating": 88
+  },
+  {
+    "id": "PTB_P18",
+    "name": " Alexander Sorlutho",
+    "team": " Park the Bus",
+    "position": " ST",
+    "baseRating": 86
+  },
+  {
+    "id": "PTB_P19",
+    "name": " Thiago Almadino",
+    "team": " Park the Bus",
+    "position": " AM",
+    "baseRating": 81
+  },
+  {
+    "id": "PTB_P20",
+    "name": " Giacomo Raspadoro",
+    "team": " Park the Bus",
+    "position": " ST",
+    "baseRating": 82
+  }
+]
