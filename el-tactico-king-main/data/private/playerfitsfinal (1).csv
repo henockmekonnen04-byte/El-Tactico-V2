@@ -1,0 +1,622 @@
+player_id_text,name,team,position,role_id,fit
+ARV_P01, Davian Raya,London Red,GK,Traditional Keeper,4
+ARV_P01, Davian Raya,London Red,GK,Modern Keeper,5
+ARV_P02, Kepa Arrizalvo,London Red,GK,Traditional Keeper,4
+ARV_P02, Kepa Arrizalvo,London Red,GK,Modern Keeper,4
+ARV_P03, Karl Heinson,London Red,GK,Traditional Keeper,4
+ARV_P03, Karl Heinson,London Red,GK,Modern Keeper,4
+ARV_P04, William Saladino,London Red,CB,No-Nonsense CB,3
+ARV_P04, William Saladino,London Red,CB,Ball-Playing CB,5
+ARV_P04, William Saladino,London Red,CB,Balanced CB,5
+ARV_P05, Gabriel Magallero,London Red,CB,No-Nonsense CB,5
+ARV_P05, Gabriel Magallero,London Red,CB,Ball-Playing CB,4
+ARV_P05, Gabriel Magallero,London Red,CB,Balanced CB,3
+ARV_P06, Jakub Kiwanski,London Red,CB,No-Nonsense CB,3
+ARV_P06, Jakub Kiwanski,London Red,CB,Ball-Playing CB,5
+ARV_P06, Jakub Kiwanski,London Red,CB,Balanced CB,4
+ARV_P07, Reece Calafori,London Red,LB,Inverted,4
+ARV_P07, Reece Calafori,London Red,LB,Wingback,5
+ARV_P07, Reece Calafori,London Red,LB,Defensive Fullback,3
+ARV_P08, Myles Lewinsky,London Red,CM,All-Around Midfielder,4
+ARV_P08, Myles Lewinsky,London Red,CM,Box-to-Box,4
+ARV_P08, Myles Lewinsky,London Red,CM,Deep-Lying Playmaker,5
+ARV_P08, Myles Lewinsky,London Red,CM,Box Crasher,2
+ARV_P08, Myles Lewinsky,London Red,CM,Mezzala,4
+ARV_P09, Declan Pasta,London Red,DM,Deep-Lying Playmaker,4
+ARV_P09, Declan Pasta,London Red,DM,Ball-Winning DM,5
+ARV_P09, Declan Pasta,London Red,DM,Anchorman,4
+ARV_P10, Martin Odegran,London Red,AM,No. 10,4
+ARV_P10, Martin Odegran,London Red,AM,Shadow Striker,2
+ARV_P11, Michael Medino,London Red,CM,All-Around Midfielder,4
+ARV_P11, Michael Medino,London Red,CM,Box-to-Box,4
+ARV_P11, Michael Medino,London Red,CM,Deep-Lying Playmaker,3
+ARV_P11, Michael Medino,London Red,CM,Box Crasher,5
+ARV_P11, Michael Medino,London Red,CM,Mezzala,1
+ARV_P12, Samba Loko,London Red,CM,All-Around Midfielder,4
+ARV_P12, Samba Loko,London Red,CM,Box-to-Box,4
+ARV_P12, Samba Loko,London Red,CM,Deep-Lying Playmaker,4
+ARV_P12, Samba Loko,London Red,CM,Box Crasher,2
+ARV_P12, Samba Loko,London Red,CM,Mezzala,1
+ARV_P13, Mark Zuub,London Red,DM,Deep-Lying Playmaker,5
+ARV_P13, Mark Zuub,London Red,DM,Ball-Winning DM,4
+ARV_P13, Mark Zuub,London Red,DM,Anchorman,4
+ARV_P14, Bukayo Adeyemi,London Red,RW,Inside Forward,5
+ARV_P14, Bukayo Adeyemi,London Red,RW,Traditional Winger,5
+ARV_P14, Bukayo Adeyemi,London Red,RW,Inverted Winger,5
+ARV_P15, Nellinho,London Red,LW,Inside Forward,4
+ARV_P15, Nellinho,London Red,LW,Traditional Winger,4
+ARV_P15, Nellinho,London Red,LW,Inverted Winger,4
+ARV_P16, Vikk Gyokerson,London Red,ST,Poacher,5
+ARV_P16, Vikk Gyokerson,London Red,ST,Target Man,4
+ARV_P16, Vikk Gyokerson,London Red,ST,Complete Forward,1
+ARV_P16, Vikk Gyokerson,London Red,ST,Deep-Lying Forward,1
+ARV_P17, Lala Trossano,London Red,LW,Inside Forward,5
+ARV_P17, Lala Trossano,London Red,LW,Traditional Winger,3
+ARV_P17, Lala Trossano,London Red,LW,Inverted Winger,4
+ARV_P18, Noni Moni,London Red,RW,Inside Forward,5
+ARV_P18, Noni Moni,London Red,RW,Traditional Winger,4
+ARV_P18, Noni Moni,London Red,RW,Inverted Winger,3
+ARV_P19, Kai Van Hav,London Red,ST,Poacher,2
+ARV_P19, Kai Van Hav,London Red,ST,Target Man,4
+ARV_P19, Kai Van Hav,London Red,ST,Complete Forward,5
+ARV_P19, Kai Van Hav,London Red,ST,Deep-Lying Forward,4
+ARV_P20, Ethan Neri,London Red,AM,No. 10,5
+ARV_P20, Ethan Neri,London Red,AM,Shadow Striker,4
+LONB_P01, Roberto Sancho,London Blues,GK,Traditional Keeper,4
+LONB_P01, Roberto Sancho,London Blues,GK,Modern Keeper,4
+LONB_P02, Filip Jorgental,London Blues,GK,Traditional Keeper,4
+LONB_P02, Filip Jorgental,London Blues,GK,Modern Keeper,4
+LONB_P03, Reece Jamesson,London Blues,RB,Inverted,4
+LONB_P03, Reece Jamesson,London Blues,RB,Wingback,4
+LONB_P03, Reece Jamesson,London Blues,RB,Defensive Fullback,4
+LONB_P04, Marc Cucurietta,London Blues,LB,Inverted,3
+LONB_P04, Marc Cucurietta,London Blues,LB,Wingback,5
+LONB_P04, Marc Cucurietta,London Blues,LB,Defensive Fullback,5
+LONB_P05, Levi Colwelling,London Blues,CB,No-Nonsense CB,2
+LONB_P05, Levi Colwelling,London Blues,CB,Ball-Playing CB,4
+LONB_P05, Levi Colwelling,London Blues,CB,Balanced CB,4
+LONB_P06, Benedict Shield,London Blues,CB,No-Nonsense CB,4
+LONB_P06, Benedict Shield,London Blues,CB,Ball-Playing CB,3
+LONB_P06, Benedict Shield,London Blues,CB,Balanced CB,4
+LONB_P07, Wesley Fofanaro,London Blues,CB,No-Nonsense CB,3
+LONB_P07, Wesley Fofanaro,London Blues,CB,Ball-Playing CB,4
+LONB_P07, Wesley Fofanaro,London Blues,CB,Balanced CB,4
+LONB_P08, Tosin Adtarbio,London Blues,CB,No-Nonsense CB,4
+LONB_P08, Tosin Adtarbio,London Blues,CB,Ball-Playing CB,3
+LONB_P08, Tosin Adtarbio,London Blues,CB,Balanced CB,4
+LONB_P09, Moise Moises,London Blues,DM,Deep-Lying Playmaker,4
+LONB_P09, Moise Moises,London Blues,DM,Ball-Winning DM,5
+LONB_P09, Moise Moises,London Blues,DM,Anchorman,4
+LONB_P10, Enny Fernz,London Blues,CM,All-Around Midfielder,5
+LONB_P10, Enny Fernz,London Blues,CM,Box-to-Box,4
+LONB_P10, Enny Fernz,London Blues,CM,Deep-Lying Playmaker,4
+LONB_P10, Enny Fernz,London Blues,CM,Box Crasher,2
+LONB_P10, Enny Fernz,London Blues,CM,Mezzala,1
+LONB_P11, Rome Lavius,London Blues,DM,Deep-Lying Playmaker,5
+LONB_P11, Rome Lavius,London Blues,DM,Ball-Winning DM,3
+LONB_P11, Rome Lavius,London Blues,DM,Anchorman,2
+LONB_P12, Andrei Sant,London Blues,CM,All-Around Midfielder,4
+LONB_P12, Andrei Sant,London Blues,CM,Box-to-Box,4
+LONB_P12, Andrei Sant,London Blues,CM,Deep-Lying Playmaker,4
+LONB_P12, Andrei Sant,London Blues,CM,Box Crasher,2
+LONB_P12, Andrei Sant,London Blues,CM,Mezzala,2
+LONB_P13, Cole Palms,London Blues,AM,No. 10,4
+LONB_P13, Cole Palms,London Blues,AM,Shadow Striker,5
+LONB_P14, Myhailo Mudrino,London Blues,LW,Inside Forward,4
+LONB_P14, Myhailo Mudrino,London Blues,LW,Traditional Winger,4
+LONB_P14, Myhailo Mudrino,London Blues,LW,Inverted Winger,4
+LONB_P15, John Gittentino,London Blues,LW,Inside Forward,4
+LONB_P15, John Gittentino,London Blues,LW,Traditional Winger,4
+LONB_P15, John Gittentino,London Blues,LW,Inverted Winger,4
+LONB_P16, Esteinho,London Blues,RW,Inside Forward,4
+LONB_P16, Esteinho,London Blues,RW,Traditional Winger,3
+LONB_P16, Esteinho,London Blues,RW,Inverted Winger,4
+LONB_P17, Michael Jackson,London Blues,ST,Poacher,2
+LONB_P17, Michael Jackson,London Blues,ST,Target Man,3
+LONB_P17, Michael Jackson,London Blues,ST,Complete Forward,4
+LONB_P17, Michael Jackson,London Blues,ST,Deep-Lying Forward,4
+LONB_P18, Liam Rap,London Blues,ST,Poacher,4
+LONB_P18, Liam Rap,London Blues,ST,Target Man,3
+LONB_P18, Liam Rap,London Blues,ST,Complete Forward,2
+LONB_P18, Liam Rap,London Blues,ST,Deep-Lying Forward,1
+LONB_P19, João Pinho,London Blues,ST,Poacher,3
+LONB_P19, João Pinho,London Blues,ST,Target Man,3
+LONB_P19, João Pinho,London Blues,ST,Complete Forward,4
+LONB_P19, João Pinho,London Blues,ST,Deep-Lying Forward,4
+LONB_P20, Jefferey Hato,London Blues,LB,Inverted,2
+LONB_P20, Jefferey Hato,London Blues,LB,Wingback,4
+LONB_P20, Jefferey Hato,London Blues,LB,Defensive Fullback,5
+MANR_P01, Andre Onyana,Manchester Reds,GK,Traditional Keeper,2
+MANR_P01, Andre Onyana,Manchester Reds,GK,Modern Keeper,3
+MANR_P02, Altay Baydaro,Manchester Reds,GK,Traditional Keeper,4
+MANR_P02, Altay Baydaro,Manchester Reds,GK,Modern Keeper,3
+MANR_P03, Diogo Daloto,Manchester Reds,RB,Inverted,2
+MANR_P03, Diogo Daloto,Manchester Reds,RB,Wingback,4
+MANR_P03, Diogo Daloto,Manchester Reds,RB,Defensive Fullback,4
+MANR_P04, Nick Mazraouy,Manchester Reds,RB,Inverted,1
+MANR_P04, Nick Mazraouy,Manchester Reds,RB,Wingback,4
+MANR_P04, Nick Mazraouy,Manchester Reds,RB,Defensive Fullback,4
+MANR_P05, Matthijs De Ligtan,Manchester Reds,CB,No-Nonsense CB,4
+MANR_P05, Matthijs De Ligtan,Manchester Reds,CB,Ball-Playing CB,2
+MANR_P05, Matthijs De Ligtan,Manchester Reds,CB,Balanced CB,4
+MANR_P06, Harry Maguireto,Manchester Reds,CB,No-Nonsense CB,5
+MANR_P06, Harry Maguireto,Manchester Reds,CB,Ball-Playing CB,4
+MANR_P06, Harry Maguireto,Manchester Reds,CB,Balanced CB,4
+MANR_P07, Leny Yorano,Manchester Reds,CB,No-Nonsense CB,4
+MANR_P07, Leny Yorano,Manchester Reds,CB,Ball-Playing CB,4
+MANR_P07, Leny Yorano,Manchester Reds,CB,Balanced CB,4
+MANR_P08, Luke Shawell,Manchester Reds,LB,Inverted,2
+MANR_P08, Luke Shawell,Manchester Reds,LB,Wingback,2
+MANR_P08, Luke Shawell,Manchester Reds,LB,Defensive Fullback,4
+MANR_P09, Tyrell Malasio,Manchester Reds,LB,Inverted,1
+MANR_P09, Tyrell Malasio,Manchester Reds,LB,Wingback,4
+MANR_P09, Tyrell Malasio,Manchester Reds,LB,Defensive Fullback,4
+MANR_P10, Caseminho,Manchester Reds,DM,Deep-Lying Playmaker,4
+MANR_P10, Caseminho,Manchester Reds,DM,Ball-Winning DM,2
+MANR_P10, Caseminho,Manchester Reds,DM,Anchorman,4
+MANR_P11, Kobbie Mainoro,Manchester Reds,CM,All-Around Midfielder,4
+MANR_P11, Kobbie Mainoro,Manchester Reds,CM,Box-to-Box,4
+MANR_P11, Kobbie Mainoro,Manchester Reds,CM,Deep-Lying Playmaker,2
+MANR_P11, Kobbie Mainoro,Manchester Reds,CM,Box Crasher,4
+MANR_P11, Kobbie Mainoro,Manchester Reds,CM,Mezzala,3
+MANR_P12, Mason Mountley,Manchester Reds,CM,All-Around Midfielder,4
+MANR_P12, Mason Mountley,Manchester Reds,CM,Box-to-Box,3
+MANR_P12, Mason Mountley,Manchester Reds,CM,Deep-Lying Playmaker,1
+MANR_P12, Mason Mountley,Manchester Reds,CM,Box Crasher,4
+MANR_P12, Mason Mountley,Manchester Reds,CM,Mezzala,3
+MANR_P13, Broon ,Manchester Reds,AM,No. 10,5
+MANR_P13, Broon ,Manchester Reds,AM,Shadow Striker,3
+MANR_P14, Manny Ugarteko,Manchester Reds,DM,Deep-Lying Playmaker,2
+MANR_P14, Manny Ugarteko,Manchester Reds,DM,Ball-Winning DM,4
+MANR_P14, Manny Ugarteko,Manchester Reds,DM,Anchorman,3
+MANR_P15, Reginald Hojlundo,Manchester Reds,ST,Poacher,4
+MANR_P15, Reginald Hojlundo,Manchester Reds,ST,Target Man,3
+MANR_P15, Reginald Hojlundo,Manchester Reds,ST,Complete Forward,3
+MANR_P15, Reginald Hojlundo,Manchester Reds,ST,Deep-Lying Forward,2
+MANR_P16, Joshua Zirkzay,Manchester Reds,ST,Poacher,2
+MANR_P16, Joshua Zirkzay,Manchester Reds,ST,Target Man,1
+MANR_P16, Joshua Zirkzay,Manchester Reds,ST,Complete Forward,4
+MANR_P16, Joshua Zirkzay,Manchester Reds,ST,Deep-Lying Forward,5
+MANR_P17, Matheus Cunhado,Manchester Reds,ST,Poacher,2
+MANR_P17, Matheus Cunhado,Manchester Reds,ST,Target Man,1
+MANR_P17, Matheus Cunhado,Manchester Reds,ST,Complete Forward,4
+MANR_P17, Matheus Cunhado,Manchester Reds,ST,Deep-Lying Forward,5
+MANR_P18, Amad Jones,Manchester Reds,RW,Inside Forward,4
+MANR_P18, Amad Jones,Manchester Reds,RW,Traditional Winger,4
+MANR_P18, Amad Jones,Manchester Reds,RW,Inverted Winger,4
+MANR_P19, Benjamin Shesk,Manchester Reds,ST,Poacher,4
+MANR_P19, Benjamin Shesk,Manchester Reds,ST,Target Man,5
+MANR_P19, Benjamin Shesk,Manchester Reds,ST,Complete Forward,1
+MANR_P19, Benjamin Shesk,Manchester Reds,ST,Deep-Lying Forward,0
+MANR_P20,Garnahino,Manchester Reds,LW,Inside Forward,4
+MANR_P20,Garnahino,Manchester Reds,LW,Traditional Winger,2
+MANR_P20,Garnahino,Manchester Reds,LW,Inverted Winger,3
+MCBL_P01, Edersono,Manchester Blues,GK,Traditional Keeper,2
+MCBL_P01, Edersono,Manchester Blues,GK,Modern Keeper,5
+MCBL_P02, James Traffordi,Manchester Blues,GK,Traditional Keeper,4
+MCBL_P02, James Traffordi,Manchester Blues,GK,Modern Keeper,4
+MCBL_P03, Stefan Ortegara,Manchester Blues,GK,Traditional Keeper,4
+MCBL_P03, Stefan Ortegara,Manchester Blues,GK,Modern Keeper,4
+MCBL_P04, Ruben Diasal,Manchester Blues,CB,No-Nonsense CB,4
+MCBL_P04, Ruben Diasal,Manchester Blues,CB,Ball-Playing CB,4
+MCBL_P04, Ruben Diasal,Manchester Blues,CB,Balanced CB,4
+MCBL_P05, John Stonese,Manchester Blues,CB,No-Nonsense CB,2
+MCBL_P05, John Stonese,Manchester Blues,CB,Ball-Playing CB,5
+MCBL_P05, John Stonese,Manchester Blues,CB,Balanced CB,4
+MCBL_P06, Jeff Gvard,Manchester Blues,CB,No-Nonsense CB,4
+MCBL_P06, Jeff Gvard,Manchester Blues,CB,Ball-Playing CB,5
+MCBL_P06, Jeff Gvard,Manchester Blues,CB,Balanced CB,5
+MCBL_P07, Nathan Aketon,Manchester Blues,CB,No-Nonsense CB,3
+MCBL_P07, Nathan Aketon,Manchester Blues,CB,Ball-Playing CB,4
+MCBL_P07, Nathan Aketon,Manchester Blues,CB,Balanced CB,4
+MCBL_P08, Melo Akanjia,Manchester Blues,CB,No-Nonsense CB,4
+MCBL_P08, Melo Akanjia,Manchester Blues,CB,Ball-Playing CB,2
+MCBL_P08, Melo Akanjia,Manchester Blues,CB,Balanced CB,4
+MCBL_P09, Tyrico Lewison,Manchester Blues,RB,Inverted,3
+MCBL_P09, Tyrico Lewison,Manchester Blues,RB,Wingback,5
+MCBL_P09, Tyrico Lewison,Manchester Blues,RB,Defensive Fullback,2
+MCBL_P10, Ray Ail-Noradis,Manchester Blues,LB,Inverted,2
+MCBL_P10, Ray Ail-Noradis,Manchester Blues,LB,Wingback,4
+MCBL_P10, Ray Ail-Noradis,Manchester Blues,LB,Defensive Fullback,4
+MCBL_P11, Rodriano,Manchester Blues,DM,Deep-Lying Playmaker,5
+MCBL_P11, Rodriano,Manchester Blues,DM,Ball-Winning DM,4
+MCBL_P11, Rodriano,Manchester Blues,DM,Anchorman,5
+MCBL_P12, Ben Silvado,Manchester Blues,AM,No. 10,4
+MCBL_P12, Ben Silvado,Manchester Blues,AM,Shadow Striker,2
+MCBL_P13, Walter Fodera,Manchester Blues,AM,No. 10,4
+MCBL_P13, Walter Fodera,Manchester Blues,AM,Shadow Striker,4
+MCBL_P14, Jack Greal,Manchester Blues,LW,Inside Forward,4
+MCBL_P14, Jack Greal,Manchester Blues,LW,Traditional Winger,2
+MCBL_P14, Jack Greal,Manchester Blues,LW,Inverted Winger,5
+MCBL_P15, Mateo Kova,Manchester Blues,CM,All-Around Midfielder,4
+MCBL_P15, Mateo Kova,Manchester Blues,CM,Box-to-Box,3
+MCBL_P15, Mateo Kova,Manchester Blues,CM,Deep-Lying Playmaker,4
+MCBL_P15, Mateo Kova,Manchester Blues,CM,Box Crasher,2
+MCBL_P15, Mateo Kova,Manchester Blues,CM,Mezzala,1
+MCBL_P16, Matheus Nuneski,Manchester Blues,CM,All-Around Midfielder,4
+MCBL_P16, Matheus Nuneski,Manchester Blues,CM,Box-to-Box,3
+MCBL_P16, Matheus Nuneski,Manchester Blues,CM,Deep-Lying Playmaker,2
+MCBL_P16, Matheus Nuneski,Manchester Blues,CM,Box Crasher,1
+MCBL_P16, Matheus Nuneski,Manchester Blues,CM,Mezzala,5
+MCBL_P17, Erling HaaHaa,Manchester Blues,ST,Poacher,5
+MCBL_P17, Erling HaaHaa,Manchester Blues,ST,Target Man,5
+MCBL_P17, Erling HaaHaa,Manchester Blues,ST,Complete Forward,1
+MCBL_P17, Erling HaaHaa,Manchester Blues,ST,Deep-Lying Forward,0
+MCBL_P18, Joshua Dokuva,Manchester Blues,RW,Inside Forward,3
+MCBL_P18, Joshua Dokuva,Manchester Blues,RW,Traditional Winger,4
+MCBL_P18, Joshua Dokuva,Manchester Blues,RW,Inverted Winger,5
+MCBL_P19,Savv,Manchester Blues,LW,Inside Forward,4
+MCBL_P19,Savv,Manchester Blues,LW,Traditional Winger,4
+MCBL_P19,Savv,Manchester Blues,LW,Inverted Winger,4
+MCBL_P20, Oscar Bobbelli,Manchester Blues,RW,Inside Forward,4
+MCBL_P20, Oscar Bobbelli,Manchester Blues,RW,Traditional Winger,3
+MCBL_P20, Oscar Bobbelli,Manchester Blues,RW,Inverted Winger,4
+SCOS_P01, Alisson Betker,Scousers,GK,Traditional Keeper,5
+SCOS_P01, Alisson Betker,Scousers,GK,Modern Keeper,5
+SCOS_P02, Giorgi Marelashvili,Scousers,GK,Traditional Keeper,4
+SCOS_P02, Giorgi Marelashvili,Scousers,GK,Modern Keeper,4
+SCOS_P03, Freddie Woodmani,Scousers,GK,Traditional Keeper,3
+SCOS_P03, Freddie Woodmani,Scousers,GK,Modern Keeper,4
+SCOS_P04, Virgil Vandi,Scousers,CB,No-Nonsense CB,5
+SCOS_P04, Virgil Vandi,Scousers,CB,Ball-Playing CB,4
+SCOS_P04, Virgil Vandi,Scousers,CB,Balanced CB,5
+SCOS_P05, Ibrah Konatez,Scousers,CB,No-Nonsense CB,4
+SCOS_P05, Ibrah Konatez,Scousers,CB,Ball-Playing CB,3
+SCOS_P05, Ibrah Konatez,Scousers,CB,Balanced CB,4
+SCOS_P06, Joe Gomezi,Scousers,CB,No-Nonsense CB,4
+SCOS_P06, Joe Gomezi,Scousers,CB,Ball-Playing CB,2
+SCOS_P06, Joe Gomezi,Scousers,CB,Balanced CB,4
+SCOS_P07, Milos Kerkezo,Scousers,LB,Inverted,1
+SCOS_P07, Milos Kerkezo,Scousers,LB,Wingback,5
+SCOS_P07, Milos Kerkezo,Scousers,LB,Defensive Fullback,3
+SCOS_P08, Conor Braddley,Scousers,RB,Inverted,2
+SCOS_P08, Conor Braddley,Scousers,RB,Wingback,5
+SCOS_P08, Conor Braddley,Scousers,RB,Defensive Fullback,4
+SCOS_P09, Giovanni Leoniardo,Scousers,CB,No-Nonsense CB,4
+SCOS_P09, Giovanni Leoniardo,Scousers,CB,Ball-Playing CB,4
+SCOS_P09, Giovanni Leoniardo,Scousers,CB,Balanced CB,4
+SCOS_P10, Jeremie Frimponga,Scousers,RB,Inverted,1
+SCOS_P10, Jeremie Frimponga,Scousers,RB,Wingback,5
+SCOS_P10, Jeremie Frimponga,Scousers,RB,Defensive Fullback,0
+SCOS_P11, Wataru Endozo,Scousers,DM,Deep-Lying Playmaker,2
+SCOS_P11, Wataru Endozo,Scousers,DM,Ball-Winning DM,4
+SCOS_P11, Wataru Endozo,Scousers,DM,Anchorman,5
+SCOS_P12, Dominik Szoboszlaino,Scousers,CM,All-Around Midfielder,4
+SCOS_P12, Dominik Szoboszlaino,Scousers,CM,Box-to-Box,2
+SCOS_P12, Dominik Szoboszlaino,Scousers,CM,Deep-Lying Playmaker,1
+SCOS_P12, Dominik Szoboszlaino,Scousers,CM,Box Crasher,4
+SCOS_P12, Dominik Szoboszlaino,Scousers,CM,Mezzala,4
+SCOS_P13, Alexis Mac Allistair,Scousers,CM,All-Around Midfielder,4
+SCOS_P13, Alexis Mac Allistair,Scousers,CM,Box-to-Box,4
+SCOS_P13, Alexis Mac Allistair,Scousers,CM,Deep-Lying Playmaker,3
+SCOS_P13, Alexis Mac Allistair,Scousers,CM,Box Crasher,4
+SCOS_P13, Alexis Mac Allistair,Scousers,CM,Mezzala,3
+SCOS_P14, Curtis Joneston,Scousers,CM,All-Around Midfielder,4
+SCOS_P14, Curtis Joneston,Scousers,CM,Box-to-Box,2
+SCOS_P14, Curtis Joneston,Scousers,CM,Deep-Lying Playmaker,1
+SCOS_P14, Curtis Joneston,Scousers,CM,Box Crasher,3
+SCOS_P14, Curtis Joneston,Scousers,CM,Mezzala,4
+SCOS_P15, Harvey Elliotte,Scousers,AM,No. 10,4
+SCOS_P15, Harvey Elliotte,Scousers,AM,Shadow Striker,2
+SCOS_P16, Mohamed Saloha,Scousers,RW,Inside Forward,5
+SCOS_P16, Mohamed Saloha,Scousers,RW,Traditional Winger,5
+SCOS_P16, Mohamed Saloha,Scousers,RW,Inverted Winger,5
+SCOS_P17, Florian Virtzso,Scousers,AM,No. 10,5
+SCOS_P17, Florian Virtzso,Scousers,AM,Shadow Striker,4
+SCOS_P18, Federico Chiesan,Scousers,LW,Inside Forward,5
+SCOS_P18, Federico Chiesan,Scousers,LW,Traditional Winger,3
+SCOS_P18, Federico Chiesan,Scousers,LW,Inverted Winger,3
+SCOS_P19, Cody Gakporenzo,Scousers,LW,Inside Forward,5
+SCOS_P19, Cody Gakporenzo,Scousers,LW,Traditional Winger,2
+SCOS_P19, Cody Gakporenzo,Scousers,LW,Inverted Winger,3
+SCOS_P20, Hugo Ekitiko,Scousers,ST,Poacher,2
+SCOS_P20, Hugo Ekitiko,Scousers,ST,Target Man,3
+SCOS_P20, Hugo Ekitiko,Scousers,ST,Complete Forward,5
+SCOS_P20, Hugo Ekitiko,Scousers,ST,Deep-Lying Forward,4
+RMAD_P01, Thibaut Curtis,90 Mins is a Long Time,GK,Traditional Keeper,5
+RMAD_P01, Thibaut Curtis,90 Mins is a Long Time,GK,Modern Keeper,2
+RMAD_P02, Andy Luninor,90 Mins is a Long Time,GK,Traditional Keeper,4
+RMAD_P02, Andy Luninor,90 Mins is a Long Time,GK,Modern Keeper,4
+RMAD_P03, Dani Carve,90 Mins is a Long Time,RB,Inverted,3
+RMAD_P03, Dani Carve,90 Mins is a Long Time,RB,Wingback,4
+RMAD_P03, Dani Carve,90 Mins is a Long Time,RB,Defensive Fullback,4
+RMAD_P04, Eder A Milli,90 Mins is a Long Time,CB,No-Nonsense CB,5
+RMAD_P04, Eder A Milli,90 Mins is a Long Time,CB,Ball-Playing CB,3
+RMAD_P04, Eder A Milli,90 Mins is a Long Time,CB,Balanced CB,4
+RMAD_P05, Dave Alabama,90 Mins is a Long Time,CB,No-Nonsense CB,4
+RMAD_P05, Dave Alabama,90 Mins is a Long Time,CB,Ball-Playing CB,3
+RMAD_P05, Dave Alabama,90 Mins is a Long Time,CB,Balanced CB,4
+RMAD_P06, Trenty Alex Anthony,90 Mins is a Long Time,RB,Inverted,5
+RMAD_P06, Trenty Alex Anthony,90 Mins is a Long Time,RB,Wingback,5
+RMAD_P06, Trenty Alex Anthony,90 Mins is a Long Time,RB,Defensive Fullback,1
+RMAD_P07, Antonio Ruud,90 Mins is a Long Time,CB,No-Nonsense CB,5
+RMAD_P07, Antonio Ruud,90 Mins is a Long Time,CB,Ball-Playing CB,3
+RMAD_P07, Antonio Ruud,90 Mins is a Long Time,CB,Balanced CB,4
+RMAD_P08, Mendyo,90 Mins is a Long Time,LB,Inverted,3
+RMAD_P08, Mendyo,90 Mins is a Long Time,LB,Wingback,3
+RMAD_P08, Mendyo,90 Mins is a Long Time,LB,Defensive Fullback,5
+RMAD_P09, Dean Hui,90 Mins is a Long Time,CB,No-Nonsense CB,3
+RMAD_P09, Dean Hui,90 Mins is a Long Time,CB,Ball-Playing CB,5
+RMAD_P09, Dean Hui,90 Mins is a Long Time,CB,Balanced CB,4
+RMAD_P10, Jo Bellingmano,90 Mins is a Long Time,AM,No. 10,5
+RMAD_P10, Jo Bellingmano,90 Mins is a Long Time,AM,Shadow Striker,5
+RMAD_P11, Edu Cama,90 Mins is a Long Time,CM,All-Around Midfielder,4
+RMAD_P11, Edu Cama,90 Mins is a Long Time,CM,Box-to-Box,4
+RMAD_P11, Edu Cama,90 Mins is a Long Time,CM,Deep-Lying Playmaker,4
+RMAD_P11, Edu Cama,90 Mins is a Long Time,CM,Box Crasher,3
+RMAD_P11, Edu Cama,90 Mins is a Long Time,CM,Mezzala,4
+RMAD_P12, Ford Valverdelo,90 Mins is a Long Time,CM,All-Around Midfielder,5
+RMAD_P12, Ford Valverdelo,90 Mins is a Long Time,CM,Box-to-Box,5
+RMAD_P12, Ford Valverdelo,90 Mins is a Long Time,CM,Deep-Lying Playmaker,4
+RMAD_P12, Ford Valverdelo,90 Mins is a Long Time,CM,Box Crasher,4
+RMAD_P12, Ford Valverdelo,90 Mins is a Long Time,CM,Mezzala,5
+RMAD_P13, Aba Tchouamener,90 Mins is a Long Time,DM,Deep-Lying Playmaker,4
+RMAD_P13, Aba Tchouamener,90 Mins is a Long Time,DM,Ball-Winning DM,5
+RMAD_P13, Aba Tchouamener,90 Mins is a Long Time,DM,Anchorman,4
+RMAD_P14, Amad Guleran,90 Mins is a Long Time,AM,No. 10,5
+RMAD_P14, Amad Guleran,90 Mins is a Long Time,AM,Shadow Striker,3
+RMAD_P15, Dani Cellyba,90 Mins is a Long Time,CM,All-Around Midfielder,4
+RMAD_P15, Dani Cellyba,90 Mins is a Long Time,CM,Box-to-Box,2
+RMAD_P15, Dani Cellyba,90 Mins is a Long Time,CM,Deep-Lying Playmaker,4
+RMAD_P15, Dani Cellyba,90 Mins is a Long Time,CM,Box Crasher,3
+RMAD_P15, Dani Cellyba,90 Mins is a Long Time,CM,Mezzala,2
+RMAD_P16,Vinihino,90 Mins is a Long Time,LW,Inside Forward,5
+RMAD_P16,Vinihino,90 Mins is a Long Time,LW,Traditional Winger,2
+RMAD_P16,Vinihino,90 Mins is a Long Time,LW,Inverted Winger,5
+RMAD_P17,Killy Frappe,90 Mins is a Long Time,ST,Poacher,5
+RMAD_P17,Killy Frappe,90 Mins is a Long Time,ST,Target Man,2
+RMAD_P17,Killy Frappe,90 Mins is a Long Time,ST,Complete Forward,5
+RMAD_P17,Killy Frappe,90 Mins is a Long Time,ST,Deep-Lying Forward,5
+RMAD_P18, Rodyrgomanto,90 Mins is a Long Time,RW,Inside Forward,5
+RMAD_P18, Rodyrgomanto,90 Mins is a Long Time,RW,Traditional Winger,3
+RMAD_P18, Rodyrgomanto,90 Mins is a Long Time,RW,Inverted Winger,4
+RMAD_P19, Endrodrick,90 Mins is a Long Time,ST,Poacher,5
+RMAD_P19, Endrodrick,90 Mins is a Long Time,ST,Target Man,3
+RMAD_P19, Endrodrick,90 Mins is a Long Time,ST,Complete Forward,4
+RMAD_P19, Endrodrick,90 Mins is a Long Time,ST,Deep-Lying Forward,3
+RMAD_P20, Frank Masta,90 Mins is a Long Time,AM,No. 10,4
+RMAD_P20, Frank Masta,90 Mins is a Long Time,AM,Shadow Striker,4
+REGF_P01, Marc-Andre Ter Stegino,Register FC,GK,Traditional Keeper,2
+REGF_P01, Marc-Andre Ter Stegino,Register FC,GK,Modern Keeper,4
+REGF_P02,Joao Garcia,Register FC,GK,Traditional Keeper,5
+REGF_P02,Joao Garcia,Register FC,GK,Modern Keeper,4
+REGF_P03, Woj Sceshz,Register FC,GK,Traditional Keeper,4
+REGF_P03, Woj Sceshz,Register FC,GK,Modern Keeper,4
+REGF_P04, Pau Barsi,Register FC,CB,No-Nonsense CB,3
+REGF_P04, Pau Barsi,Register FC,CB,Ball-Playing CB,4
+REGF_P04, Pau Barsi,Register FC,CB,Balanced CB,4
+REGF_P05, Ally Baldeo,Register FC,LB,Inverted,4
+REGF_P05, Ally Baldeo,Register FC,LB,Wingback,5
+REGF_P05, Ally Baldeo,Register FC,LB,Defensive Fullback,3
+REGF_P06, Cristiano Arazo,Register FC,CB,No-Nonsense CB,5
+REGF_P06, Cristiano Arazo,Register FC,CB,Ball-Playing CB,2
+REGF_P06, Cristiano Arazo,Register FC,CB,Balanced CB,3
+REGF_P07, Andy Christens,Register FC,CB,No-Nonsense CB,4
+REGF_P07, Andy Christens,Register FC,CB,Ball-Playing CB,4
+REGF_P07, Andy Christens,Register FC,CB,Balanced CB,4
+REGF_P08, Jules Koule,Register FC,CB,No-Nonsense CB,4
+REGF_P08, Jules Koule,Register FC,CB,Ball-Playing CB,5
+REGF_P08, Jules Koule,Register FC,CB,Balanced CB,5
+REGF_P09, Eric Garrassa,Register FC,CB,No-Nonsense CB,4
+REGF_P09, Eric Garrassa,Register FC,CB,Ball-Playing CB,4
+REGF_P09, Eric Garrassa,Register FC,CB,Balanced CB,4
+REGF_P10, Gavinho,Register FC,CM,All-Around Midfielder,4
+REGF_P10,Gavinho,Register FC,CM,Box-to-Box,4
+REGF_P10,Gavinho,Register FC,CM,Deep-Lying Playmaker,4
+REGF_P10,Gavinho,Register FC,CM,Box Crasher,4
+REGF_P10,Gavinho,Register FC,CM,Mezzala,2
+REGF_P11, Pedriano,Register FC,CM,All-Around Midfielder,5
+REGF_P11, Pedriano,Register FC,CM,Box-to-Box,4
+REGF_P11, Pedriano,Register FC,CM,Deep-Lying Playmaker,5
+REGF_P11, Pedriano,Register FC,CM,Box Crasher,3
+REGF_P11, Pedriano,Register FC,CM,Mezzala,4
+REGF_P12, Fermin Lopezo,Register FC,AM,No. 10,5
+REGF_P12, Fermin Lopezo,Register FC,AM,Shadow Striker,3
+REGF_P13, Marc Casadoy,Register FC,DM,Deep-Lying Playmaker,4
+REGF_P13, Marc Casadoy,Register FC,DM,Ball-Winning DM,4
+REGF_P13, Marc Casadoy,Register FC,DM,Anchorman,4
+REGF_P14, Daniel Olmora,Register FC,AM,No. 10,4
+REGF_P14, Daniel Olmora,Register FC,AM,Shadow Striker,5
+REGF_P15, Frank Jong,Register FC,CM,All-Around Midfielder,5
+REGF_P15, Frank Jong,Register FC,CM,Box-to-Box,4
+REGF_P15, Frank Jong,Register FC,CM,Deep-Lying Playmaker,5
+REGF_P15, Frank Jong,Register FC,CM,Box Crasher,2
+REGF_P15, Frank Jong,Register FC,CM,Mezzala,3
+REGF_P16, Derran Torr,Register FC,LW,Inside Forward,5
+REGF_P16, Derran Torr,Register FC,LW,Traditional Winger,4
+REGF_P16, Derran Torr,Register FC,LW,Inverted Winger,4
+REGF_P17, Bob LeDowski,Register FC,ST,Poacher,5
+REGF_P17, Bob LeDowski,Register FC,ST,Target Man,5
+REGF_P17, Bob LeDowski,Register FC,ST,Complete Forward,4
+REGF_P17, Bob LeDowski,Register FC,ST,Deep-Lying Forward,2
+REGF_P18,  Yamalito,Register FC,RW,Inside Forward,5
+REGF_P18,  Yamalito,Register FC,RW,Traditional Winger,4
+REGF_P18,  Yamalito,Register FC,RW,Inverted Winger,5
+REGF_P19, Raphinhão,Register FC,RW,Inside Forward,5
+REGF_P19, Raphinhão,Register FC,RW,Traditional Winger,4
+REGF_P19, Raphinhão,Register FC,RW,Inverted Winger,5
+REGF_P20, Mark Rash,Register FC,LW,Inside Forward,5
+REGF_P20, Mark Rash,Register FC,LW,Traditional Winger,4
+REGF_P20, Mark Rash,Register FC,LW,Inverted Winger,4
+BUND_P01, Manuel Nuerlero,The Bundesliga Team,GK,Traditional Keeper,3
+BUND_P01, Manuel Nuerlero,The Bundesliga Team,GK,Modern Keeper,5
+BUND_P02, Sven Ulreicho,The Bundesliga Team,GK,Traditional Keeper,4
+BUND_P02, Sven Ulreicho,The Bundesliga Team,GK,Modern Keeper,4
+BUND_P03, Jonas Urbigo,The Bundesliga Team,GK,Traditional Keeper,4
+BUND_P03, Jonas Urbigo,The Bundesliga Team,GK,Modern Keeper,4
+BUND_P04, Days Upamecani,The Bundesliga Team,CB,No-Nonsense CB,4
+BUND_P04, Days Upamecani,The Bundesliga Team,CB,Ball-Playing CB,2
+BUND_P04, Days Upamecani,The Bundesliga Team,CB,Balanced CB,4
+BUND_P05, Minjae Kimo,The Bundesliga Team,CB,No-Nonsense CB,4
+BUND_P05, Minjae Kimo,The Bundesliga Team,CB,Ball-Playing CB,3
+BUND_P05, Minjae Kimo,The Bundesliga Team,CB,Balanced CB,4
+BUND_P06, Jack Tahler,The Bundesliga Team,CB,No-Nonsense CB,5
+BUND_P06, Jack Tahler,The Bundesliga Team,CB,Ball-Playing CB,4
+BUND_P06, Jack Tahler,The Bundesliga Team,CB,Balanced CB,4
+BUND_P07, Phonny Daviers,The Bundesliga Team,LB,Inverted,2
+BUND_P07, Phonny Daviers,The Bundesliga Team,LB,Wingback,5
+BUND_P07, Phonny Daviers,The Bundesliga Team,LB,Defensive Fullback,3
+BUND_P08, Hiroki Itoda,The Bundesliga Team,CB,No-Nonsense CB,4
+BUND_P08, Hiroki Itoda,The Bundesliga Team,CB,Ball-Playing CB,4
+BUND_P08, Hiroki Itoda,The Bundesliga Team,CB,Balanced CB,4
+BUND_P09, Raphael Gerr,The Bundesliga Team,LB,Inverted,5
+BUND_P09, Raphael Gerr,The Bundesliga Team,LB,Wingback,4
+BUND_P09, Raphael Gerr,The Bundesliga Team,LB,Defensive Fullback,3
+BUND_P10, Sash Boeyo,The Bundesliga Team,RB,Inverted,2
+BUND_P10, Sash Boeyo,The Bundesliga Team,RB,Wingback,4
+BUND_P10, Sash Boeyo,The Bundesliga Team,RB,Defensive Fullback,3
+BUND_P11, Josh Kimming,The Bundesliga Team,DM,Deep-Lying Playmaker,5
+BUND_P11, Josh Kimming,The Bundesliga Team,DM,Ball-Winning DM,4
+BUND_P11, Josh Kimming,The Bundesliga Team,DM,Anchorman,4
+BUND_P12, Leon Garetzko,The Bundesliga Team,CM,All-Around Midfielder,4
+BUND_P12, Leon Garetzko,The Bundesliga Team,CM,Box-to-Box,4
+BUND_P12, Leon Garetzko,The Bundesliga Team,CM,Deep-Lying Playmaker,3
+BUND_P12, Leon Garetzko,The Bundesliga Team,CM,Box Crasher,3
+BUND_P12, Leon Garetzko,The Bundesliga Team,CM,Mezzala,3
+BUND_P13, Jamal Musialelonga,The Bundesliga Team,AM,No. 10,5
+BUND_P13, Jamal Musialelonga,The Bundesliga Team,AM,Shadow Striker,4
+BUND_P14, Konrad Laimerich,The Bundesliga Team,CM,All-Around Midfielder,4
+BUND_P14, Konrad Laimerich,The Bundesliga Team,CM,Box-to-Box,4
+BUND_P14, Konrad Laimerich,The Bundesliga Team,CM,Deep-Lying Playmaker,4
+BUND_P14, Konrad Laimerich,The Bundesliga Team,CM,Box Crasher,3
+BUND_P14, Konrad Laimerich,The Bundesliga Team,CM,Mezzala,3
+BUND_P15, Aleksandar Pavlovico,The Bundesliga Team,CM,All-Around Midfielder,4
+BUND_P15, Aleksandar Pavlovico,The Bundesliga Team,CM,Box-to-Box,4
+BUND_P15, Aleksandar Pavlovico,The Bundesliga Team,CM,Deep-Lying Playmaker,3
+BUND_P15, Aleksandar Pavlovico,The Bundesliga Team,CM,Box Crasher,3
+BUND_P15, Aleksandar Pavlovico,The Bundesliga Team,CM,Mezzala,3
+BUND_P16, Paul Wanners,The Bundesliga Team,AM,No. 10,4
+BUND_P16, Paul Wanners,The Bundesliga Team,AM,Shadow Striker,4
+BUND_P17, Harold Kaner,The Bundesliga Team,ST,Poacher,5
+BUND_P17, Harold Kaner,The Bundesliga Team,ST,Target Man,4
+BUND_P17, Harold Kaner,The Bundesliga Team,ST,Complete Forward,5
+BUND_P17, Harold Kaner,The Bundesliga Team,ST,Deep-Lying Forward,5
+BUND_P18, Sergei Gnabryko,The Bundesliga Team,RW,Inside Forward,5
+BUND_P18, Sergei Gnabryko,The Bundesliga Team,RW,Traditional Winger,3
+BUND_P18, Sergei Gnabryko,The Bundesliga Team,RW,Inverted Winger,4
+BUND_P19, Luish Deesh,The Bundesliga Team,LW,Inside Forward,4
+BUND_P19, Luish Deesh,The Bundesliga Team,LW,Traditional Winger,4
+BUND_P19, Luish Deesh,The Bundesliga Team,LW,Inverted Winger,4
+BUND_P20, Mike Olisey,The Bundesliga Team,RW,Inside Forward,5
+BUND_P20, Mike Olisey,The Bundesliga Team,RW,Traditional Winger,3
+BUND_P20, Mike Olisey,The Bundesliga Team,RW,Inverted Winger,4
+CROIS_P01,GianLuigi Mario,Croissant FC,GK,Traditional Keeper,5
+CROIS_P01,GianLuigi Mario,Croissant FC,GK,Modern Keeper,2
+CROIS_P02, Lucas Chevaliero,Croissant FC,GK,Traditional Keeper,4
+CROIS_P02, Lucas Chevaliero,Croissant FC,GK,Modern Keeper,5
+CROIS_P03, Matvey Safonov,Croissant FC,GK,Traditional Keeper,4
+CROIS_P03, Matvey Safonov,Croissant FC,GK,Modern Keeper,4
+CROIS_P04, Achraf Hakimino,Croissant FC,RB,Inverted,4
+CROIS_P04, Achraf Hakimino,Croissant FC,RB,Wingback,5
+CROIS_P04, Achraf Hakimino,Croissant FC,RB,Defensive Fullback,3
+CROIS_P05, Presnel Kimpembason,Croissant FC,CB,No-Nonsense CB,4
+CROIS_P05, Presnel Kimpembason,Croissant FC,CB,Ball-Playing CB,3
+CROIS_P05, Presnel Kimpembason,Croissant FC,CB,Balanced CB,4
+CROIS_P06,  Beraldinho,Croissant FC,CB,No-Nonsense CB,4
+CROIS_P06,  Beraldinho,Croissant FC,CB,Ball-Playing CB,3
+CROIS_P06,  Beraldinho,Croissant FC,CB,Balanced CB,4
+CROIS_P07, Marquinhosinho,Croissant FC,CB,No-Nonsense CB,3
+CROIS_P07, Marquinhosinho,Croissant FC,CB,Ball-Playing CB,3
+CROIS_P07, Marquinhosinho,Croissant FC,CB,Balanced CB,5
+CROIS_P08, Illia Zabarny,Croissant FC,CB,No-Nonsense CB,4
+CROIS_P08, Illia Zabarny,Croissant FC,CB,Ball-Playing CB,4
+CROIS_P08, Illia Zabarny,Croissant FC,CB,Balanced CB,4
+CROIS_P09, Lucas Hernandezao,Croissant FC,LB,Inverted,3
+CROIS_P09, Lucas Hernandezao,Croissant FC,LB,Wingback,4
+CROIS_P09, Lucas Hernandezao,Croissant FC,LB,Defensive Fullback,5
+CROIS_P10,  Mendesinho,Croissant FC,LB,Inverted,3
+CROIS_P10,  Mendesinho,Croissant FC,LB,Wingback,5
+CROIS_P10,  Mendesinho,Croissant FC,LB,Defensive Fullback,5
+CROIS_P11, Fabian Ruizo,Croissant FC,CM,All-Around Midfielder,4
+CROIS_P11, Fabian Ruizo,Croissant FC,CM,Box-to-Box,3
+CROIS_P11, Fabian Ruizo,Croissant FC,CM,Deep-Lying Playmaker,4
+CROIS_P11, Fabian Ruizo,Croissant FC,CM,Box Crasher,5
+CROIS_P11, Fabian Ruizo,Croissant FC,CM,Mezzala,3
+CROIS_P12, Vitinhaio,Croissant FC,CM,All-Around Midfielder,5
+CROIS_P12, Vitinhaio,Croissant FC,CM,Box-to-Box,4
+CROIS_P12, Vitinhaio,Croissant FC,CM,Deep-Lying Playmaker,5
+CROIS_P12, Vitinhaio,Croissant FC,CM,Box Crasher,3
+CROIS_P12, Vitinhaio,Croissant FC,CM,Mezzala,3
+CROIS_P13, King-In Leao,Croissant FC,AM,No. 10,4
+CROIS_P13, King-In Leao,Croissant FC,AM,Shadow Striker,4
+CROIS_P14, Senny Muyulo,Croissant FC,AM,No. 10,4
+CROIS_P14, Senny Muyulo,Croissant FC,AM,Shadow Striker,4
+CROIS_P15, Warren Zaire-Wade,Croissant FC,CM,All-Around Midfielder,4
+CROIS_P15, Warren Zaire-Wade,Croissant FC,CM,Box-to-Box,4
+CROIS_P15, Warren Zaire-Wade,Croissant FC,CM,Deep-Lying Playmaker,4
+CROIS_P15, Warren Zaire-Wade,Croissant FC,CM,Box Crasher,3
+CROIS_P15, Warren Zaire-Wade,Croissant FC,CM,Mezzala,3
+CROIS_P16, Joe Nevsh,Croissant FC,DM,Deep-Lying Playmaker,4
+CROIS_P16, Joe Nevsh,Croissant FC,DM,Ball-Winning DM,4
+CROIS_P16, Joe Nevsh,Croissant FC,DM,Anchorman,4
+CROIS_P17, Karl Kvarasel,Croissant FC,LW,Inside Forward,5
+CROIS_P17, Karl Kvarasel,Croissant FC,LW,Traditional Winger,4
+CROIS_P17, Karl Kvarasel,Croissant FC,LW,Inverted Winger,4
+CROIS_P18, Cristiano Ramoso,Croissant FC,ST,Poacher,3
+CROIS_P18, Cristiano Ramoso,Croissant FC,ST,Target Man,4
+CROIS_P18, Cristiano Ramoso,Croissant FC,ST,Complete Forward,4
+CROIS_P18, Cristiano Ramoso,Croissant FC,ST,Deep-Lying Forward,3
+CROIS_P19, Marcus Dembeleau,Croissant FC,RW,Inside Forward,5
+CROIS_P19, Marcus Dembeleau,Croissant FC,RW,Traditional Winger,4
+CROIS_P19, Marcus Dembeleau,Croissant FC,RW,Inverted Winger,4
+CROIS_P20, Barry Barcolan,Croissant FC,RW,Inside Forward,5
+CROIS_P20, Barry Barcolan,Croissant FC,RW,Traditional Winger,4
+CROIS_P20, Barry Barcolan,Croissant FC,RW,Inverted Winger,3
+PTB_P01, Jan Oblakadro,Park the Bus,GK,Traditional Keeper,5
+PTB_P01, Jan Oblakadro,Park the Bus,GK,Modern Keeper,3
+PTB_P02, Juan Mussona,Park the Bus,GK,Traditional Keeper,4
+PTB_P02, Juan Mussona,Park the Bus,GK,Modern Keeper,4
+PTB_P03, Jose Gimenezco,Park the Bus,CB,No-Nonsense CB,5
+PTB_P03, Jose Gimenezco,Park the Bus,CB,Ball-Playing CB,2
+PTB_P03, Jose Gimenezco,Park the Bus,CB,Balanced CB,4
+PTB_P04, Matteo Ruggerio,Park the Bus,LB,Inverted,4
+PTB_P04, Matteo Ruggerio,Park the Bus,LB,Wingback,4
+PTB_P04, Matteo Ruggerio,Park the Bus,LB,Defensive Fullback,4
+PTB_P05, Clement Lengleto,Park the Bus,CB,No-Nonsense CB,3
+PTB_P05, Clement Lengleto,Park the Bus,CB,Ball-Playing CB,2
+PTB_P05, Clement Lengleto,Park the Bus,CB,Balanced CB,4
+PTB_P06, Nathan Molinaro,Park the Bus,RB,Inverted,3
+PTB_P06, Nathan Molinaro,Park the Bus,RB,Wingback,3
+PTB_P06, Nathan Molinaro,Park the Bus,RB,Defensive Fullback,4
+PTB_P07, Dave Hanckor,Park the Bus,CB,No-Nonsense CB,3
+PTB_P07, Dave Hanckor,Park the Bus,CB,Ball-Playing CB,4
+PTB_P07, Dave Hanckor,Park the Bus,CB,Balanced CB,4
+PTB_P08, Marc Pubillo,Park the Bus,RB,Inverted,3
+PTB_P08, Marc Pubillo,Park the Bus,RB,Wingback,3
+PTB_P08, Marc Pubillo,Park the Bus,RB,Defensive Fullback,4
+PTB_P09, Javi Galando,Park the Bus,LB,Inverted,4
+PTB_P09, Javi Galando,Park the Bus,LB,Wingback,4
+PTB_P09, Javi Galando,Park the Bus,LB,Defensive Fullback,4
+PTB_P10, Robin Lenormando,Park the Bus,CB,No-Nonsense CB,3
+PTB_P10, Robin Lenormando,Park the Bus,CB,Ball-Playing CB,4
+PTB_P10, Robin Lenormando,Park the Bus,CB,Balanced CB,5
+PTB_P11, Kokealito,Park the Bus,CM,All-Around Midfielder,4
+PTB_P11, Kokealito,Park the Bus,CM,Box-to-Box,2
+PTB_P11, Kokealito,Park the Bus,CM,Deep-Lying Playmaker,4
+PTB_P11, Kokealito,Park the Bus,CM,Box Crasher,4
+PTB_P11, Kokealito,Park the Bus,CM,Mezzala,2
+PTB_P12, Pablo Barrioso,Park the Bus,CM,All-Around Midfielder,4
+PTB_P12, Pablo Barrioso,Park the Bus,CM,Box-to-Box,3
+PTB_P12, Pablo Barrioso,Park the Bus,CM,Deep-Lying Playmaker,4
+PTB_P12, Pablo Barrioso,Park the Bus,CM,Box Crasher,3
+PTB_P12, Pablo Barrioso,Park the Bus,CM,Mezzala,2
+PTB_P13, Alex Baenaro,Park the Bus,AM,No. 10,4
+PTB_P13, Alex Baenaro,Park the Bus,AM,Shadow Striker,4
+PTB_P15, Johnny Cardose,Park the Bus,DM,Deep-Lying Playmaker,4
+PTB_P15, Johnny Cardose,Park the Bus,DM,Ball-Winning DM,4
+PTB_P15, Johnny Cardose,Park the Bus,DM,Anchorman,4
+PTB_P16, Connor Gallaguer,Park the Bus,CM,All-Around Midfielder,4
+PTB_P16, Connor Gallaguer,Park the Bus,CM,Box-to-Box,4
+PTB_P16, Connor Gallaguer,Park the Bus,CM,Deep-Lying Playmaker,1
+PTB_P16, Connor Gallaguer,Park the Bus,CM,Box Crasher,4
+PTB_P16, Connor Gallaguer,Park the Bus,CM,Mezzala,1
+PTB_P18, Alexander Sorlutho,Park the Bus,ST,Poacher,4
+PTB_P18, Alexander Sorlutho,Park the Bus,ST,Target Man,5
+PTB_P18, Alexander Sorlutho,Park the Bus,ST,Complete Forward,2
+PTB_P18, Alexander Sorlutho,Park the Bus,ST,Deep-Lying Forward,2
+PTB_P19, Thiago Almadino,Park the Bus,AM,No. 10,4
+PTB_P19, Thiago Almadino,Park the Bus,AM,Shadow Striker,4
+PTB_P20, Giacomo Raspadoro,Park the Bus,ST,Poacher,2
+PTB_P20, Giacomo Raspadoro,Park the Bus,ST,Target Man,3
+PTB_P20, Giacomo Raspadoro,Park the Bus,ST,Complete Forward,4
+PTB_P20, Giacomo Raspadoro,Park the Bus,ST,Deep-Lying Forward,4

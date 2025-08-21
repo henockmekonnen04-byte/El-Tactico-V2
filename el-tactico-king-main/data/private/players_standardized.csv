@@ -1,0 +1,201 @@
+player_id,name,team,position,base_rating
+ARV_P01, Davian Raya, London Red, GK,88
+ARV_P02, Kepa Arrizalvo, London Red, GK,74
+ARV_P03, Karl Heinson, London Red, GK,71
+ARV_P04, William Saladino, London Red, CB,94
+ARV_P05, Gabriel Magallero, London Red, CB,93
+ARV_P06, Jakub Kiwanski, London Red, CB,83
+ARV_P07, Reece Calafori, London Red, LB,86
+ARV_P08, Myles Lewinsky, London Red, CM,80
+ARV_P09, Declan Pasta, London Red, DM,93
+ARV_P10, Martin Odegran, London Red, AM,88
+ARV_P11, Michael Medino, London Red, CM,86
+ARV_P12, Samba Loko, London Red, CM,72
+ARV_P13, Mark Zuub, London Red, DM,89
+ARV_P14, Bukayo Adeyemi, London Red, RW,94
+ARV_P15, Nellinho, London Red, LW,83
+ARV_P16, Vikk Gyokerson, London Red, ST,85
+ARV_P17, Lala Trossano, London Red, LW,85
+ARV_P18, Noni Moni, London Red, RW,83
+ARV_P19, Kai Van Hav, London Red, ST,89
+ARV_P20, Ethan Neri, London Red, AM,80
+LONB_P01, Roberto Sancho, London Blues, GK,83
+LONB_P02, Filip Jorgental, London Blues, GK,73
+LONB_P03, Reece Jamesson, London Blues, RB,88
+LONB_P04, Marc Cucurietta, London Blues, LB,87
+LONB_P05, Levi Colwelling, London Blues, CB,85
+LONB_P06, Benedict Shield, London Blues, CB,78
+LONB_P07, Wesley Fofanaro, London Blues, CB,83
+LONB_P08, Tosin Adtarbio, London Blues, CB,80
+LONB_P09, Moise Moises, London Blues, DM,91
+LONB_P10, Enny Fernz, London Blues, CM,89
+LONB_P11, Rome Lavius, London Blues, DM,85
+LONB_P12, Andrei Sant, London Blues, CM,82
+LONB_P13, Cole Palms, London Blues, AM,93
+LONB_P14, Myhailo Mudrino, London Blues, LW,80
+LONB_P15, John Gittentino, London Blues, LW,81
+LONB_P16, Esteinho, London Blues, RW,84
+LONB_P17, Michael Jackson, London Blues, ST,83
+LONB_P18, Liam Rap, London Blues, ST,83
+LONB_P19, João Pinho, London Blues, ST,86
+LONB_P20, Jefferey Hato, London Blues, LB,79
+MANR_P01, Andre Onyana, Manchester Reds, GK,72
+MANR_P02, Altay Baydaro, Manchester Reds, GK,74
+MANR_P03, Diogo Daloto, Manchester Reds, RB,80
+MANR_P04, Nick Mazraouy, Manchester Reds, RB,81
+MANR_P05, Matthijs De Ligtan, Manchester Reds, CB,83
+MANR_P06, Harry Maguireto, Manchester Reds, CB,85
+MANR_P07, Leny Yorano, Manchester Reds, CB,85
+MANR_P08, Luke Shawell, Manchester Reds, LB,80
+MANR_P09, Tyrell Malasio, Manchester Reds, LB,72
+MANR_P10, Caseminho, Manchester Reds, DM,75
+MANR_P11, Kobbie Mainoro, Manchester Reds, CM,82
+MANR_P12, Mason Mountley, Manchester Reds, CM,74
+MANR_P13, Broon , Manchester Reds, AM,92
+MANR_P14, Manny Ugarteko, Manchester Reds, DM,77
+MANR_P15, Reginald Hojlundo, Manchester Reds, ST,79
+MANR_P16, Joshua Zirkzay, Manchester Reds, ST,83
+MANR_P17, Matheus Cunhado, Manchester Reds, ST,87
+MANR_P18, Amad Jones, Manchester Reds, RW,83
+MANR_P19, Benjamin Shesk, Manchester Reds, ST,84
+MANR_P20,Garnahino, Manchester Reds, LW,80
+MCBL_P01, Edersono, Manchester Blues, GK,82
+MCBL_P02, James Traffordi, Manchester Blues, GK,81
+MCBL_P03, Stefan Ortegara, Manchester Blues, GK,83
+MCBL_P04, Ruben Diasal, Manchester Blues, CB,84
+MCBL_P05, John Stonese, Manchester Blues, CB,86
+MCBL_P06, Jeff Gvard, Manchester Blues, CB,90
+MCBL_P07, Nathan Aketon, Manchester Blues, CB,82
+MCBL_P08, Melo Akanjia, Manchester Blues, CB,84
+MCBL_P09, Tyrico Lewison, Manchester Blues, RB,79
+MCBL_P10, Ray Ail-Noradis, Manchester Blues, LB,84
+MCBL_P11, Rodriano, Manchester Blues, DM,92
+MCBL_P12, Ben Silvado, Manchester Blues, AM,86
+MCBL_P13, Walter Fodera, Manchester Blues, AM,88
+MCBL_P14, Jack Greal, Manchester Blues, LW,82
+MCBL_P15, Mateo Kova, Manchester Blues, CM,80
+MCBL_P16, Matheus Nuneski, Manchester Blues, CM,79
+MCBL_P17, Erling HaaHaa, Manchester Blues, ST,96
+MCBL_P18, Joshua Dokuva, Manchester Blues, RW,86
+MCBL_P19,Savv, Manchester Blues, LW,84
+MCBL_P20, Oscar Bobbelli, Manchester Blues, RW,75
+SCOS_P01, Alisson Betker, Scousers, GK,94
+SCOS_P02, Giorgi Marelashvili, Scousers, GK,84
+SCOS_P03, Freddie Woodmani, Scousers, GK,73
+SCOS_P04, Virgil Vandi, Scousers, CB,92
+SCOS_P05, Ibrah Konatez, Scousers, CB,83
+SCOS_P06, Joe Gomezi, Scousers, CB,80
+SCOS_P07, Milos Kerkezo, Scousers, LB,84
+SCOS_P08, Conor Braddley, Scousers, RB,84
+SCOS_P09, Giovanni Leoniardo, Scousers, CB,75
+SCOS_P10, Jeremie Frimponga, Scousers, RB,88
+SCOS_P11, Wataru Endozo, Scousers, DM,78
+SCOS_P12, Dominik Szoboszlaino, Scousers, CM,86
+SCOS_P13, Alexis Mac Allistair, Scousers, CM,89
+SCOS_P14, Curtis Joneston, Scousers, CM,81
+SCOS_P15, Harvey Elliotte, Scousers, AM,80
+SCOS_P16, Mohamed Saloha, Scousers, RW,96
+SCOS_P17, Florian Virtzso, Scousers, AM,91
+SCOS_P18, Federico Chiesan, Scousers, LW,80
+SCOS_P19, Cody Gakporenzo, Scousers, LW,87
+SCOS_P20, Hugo Ekitiko, Scousers, ST,88
+RMAD_P01, Thibaut Curtis, 90 Mins is a Long Time, GK,94
+RMAD_P02, Andy Luninor, 90 Mins is a Long Time, GK,80
+RMAD_P03, Dani Carve, 90 Mins is a Long Time, RB,80
+RMAD_P04, Eder A Milli, 90 Mins is a Long Time, CB,87
+RMAD_P05, Dave Alabama, 90 Mins is a Long Time, CB,83
+RMAD_P06, Trenty Alex Anthony, 90 Mins is a Long Time, RB,92
+RMAD_P07, Antonio Ruud, 90 Mins is a Long Time, CB,89
+RMAD_P08, Mendyo, 90 Mins is a Long Time, LB,81
+RMAD_P09, Dean Hui, 90 Mins is a Long Time, CB,86
+RMAD_P10, Jo Bellingmano, 90 Mins is a Long Time, AM,94
+RMAD_P11, Edu Cama, 90 Mins is a Long Time, CM,88
+RMAD_P12, Ford Valverdelo, 90 Mins is a Long Time, CM,92
+RMAD_P13, Aba Tchouamener, 90 Mins is a Long Time, DM,85
+RMAD_P14, Amad Guleran, 90 Mins is a Long Time, AM,85
+RMAD_P15, Dani Cellyba, 90 Mins is a Long Time, CM,78
+RMAD_P16,Vinihino, 90 Mins is a Long Time, LW,90
+RMAD_P17,Killy Frappe, 90 Mins is a Long Time, ST,96
+RMAD_P18, Rodyrgomanto, 90 Mins is a Long Time, RW,90
+RMAD_P19, Endrodrick, 90 Mins is a Long Time, ST,84
+RMAD_P20, Frank Masta, 90 Mins is a Long Time, AM,78
+REGF_P01, Marc-Andre Ter Stegino, Register FC, GK,80
+REGF_P02,Joao Garcia, Register FC, GK,87
+REGF_P03, Woj Sceshz, Register FC, GK,81
+REGF_P04, Pau Barsi, Register FC, CB,85
+REGF_P05, Ally Baldeo, Register FC, LB,87
+REGF_P06, Cristiano Araúzo, Register FC, CB,86
+REGF_P07, Andy Christens, Register FC, CB,82
+REGF_P08, Jules Koule, Register FC, CB,90
+REGF_P09, Eric Garrassa, Register FC, CB,79
+REGF_P10, Gaviño, Register FC, CM,86
+REGF_P11, Pedriano, Register FC, CM,92
+REGF_P12, Fermin Lopezo, Register FC, AM,85
+REGF_P13, Marc Casadoy, Register FC, DM,78
+REGF_P14, Daniel Olmora, Register FC, AM,86
+REGF_P15, Frank Jong, Register FC, CM,90
+REGF_P16, Derran Torr, Register FC, LW,85
+REGF_P17, Bob LeDowski, Register FC, ST,89
+REGF_P18,  Yamalito, Register FC, RW,95
+REGF_P19, Raphinhão, Register FC, RW,88
+REGF_P20, Mark Rash, Register FC, LW,86
+BUND_P01, Manuel Nuerlero, The Bundesliga Team, GK,80
+BUND_P02, Sven Ulreicho, The Bundesliga Team, GK,80
+BUND_P03, Jonas Urbigo, The Bundesliga Team, GK,76
+BUND_P04, Days Upamecani, The Bundesliga Team, CB,83
+BUND_P05, Minjae Kimo, The Bundesliga Team, CB,82
+BUND_P06, Jack Tahler, The Bundesliga Team, CB,88
+BUND_P07, Phonny Daviers, The Bundesliga Team, LB,86
+BUND_P08, Hiroki Itoda, The Bundesliga Team, CB,83
+BUND_P09, Raphael Gerr, The Bundesliga Team, LB,84
+BUND_P10, Sash Boeyo, The Bundesliga Team, RB,80
+BUND_P11, Josh Kimming, The Bundesliga Team, DM,91
+BUND_P12, Leon Garetzko, The Bundesliga Team, CM,83
+BUND_P13, Jamal Musialelonga, The Bundesliga Team, AM,91
+BUND_P14, Konrad Laimerich, The Bundesliga Team, CM,84
+BUND_P15, Aleksandar Pavlovico, The Bundesliga Team, CM,82
+BUND_P16, Paul Wanners, The Bundesliga Team, AM,78
+BUND_P17, Harold Kaner, The Bundesliga Team, ST,93
+BUND_P18, Sergei Gnabryko, The Bundesliga Team, RW,85
+BUND_P19, Luish Deesh, The Bundesliga Team, LW,86
+BUND_P20, Mike Olisey, The Bundesliga Team, RW,90
+CROIS_P01,GianLuigi Mario, Croissant FC, GK,90
+CROIS_P02, Lucas Chevaliero, Croissant FC, GK,82
+CROIS_P03, Matvey Safonov, Croissant FC, GK,81
+CROIS_P04, Achraf Hakimino, Croissant FC, RB,91
+CROIS_P05, Presnel Kimpembéson, Croissant FC, CB,81
+CROIS_P06,  Beraldinho, Croissant FC, CB,82
+CROIS_P07, Marquinhosinho, Croissant FC, CB,85
+CROIS_P08, Illia Zabarny, Croissant FC, CB,82
+CROIS_P09, Lucas Hernandezao, Croissant FC, LB,84
+CROIS_P10,  Mendesinho, Croissant FC, LB,90
+CROIS_P11, Fabian Ruizo, Croissant FC, CM,84
+CROIS_P12, Vitinhaio, Croissant FC, CM,89
+CROIS_P13, King-In Leao, Croissant FC, AM,80
+CROIS_P14, Senny Muyulo, Croissant FC, AM,77
+CROIS_P15, Warren Zaire-Wade, Croissant FC, CM,84
+CROIS_P16, João Nevsh, Croissant FC, DM,88
+CROIS_P17, Karl Kvarasel, Croissant FC, LW,90
+CROIS_P18, Cristiano Ramoso, Croissant FC, ST,82
+CROIS_P19, Marcus Dembeleau, Croissant FC, RW,90
+CROIS_P20, Barry Barcolan, Croissant FC, RW,85
+PTB_P01, Jan Oblakadro, Park the Bus, GK,88
+PTB_P02, Juan Mussona, Park the Bus, GK,80
+PTB_P03, Jose Gimenezco, Park the Bus, CB,84
+PTB_P04, Matteo Ruggerio, Park the Bus, LB,80
+PTB_P05, Clement Lengleto, Park the Bus, CB,80
+PTB_P06, Nathan Molinaro, Park the Bus, RB,85
+PTB_P07, Dave Hanckor, Park the Bus, CB,84
+PTB_P08, Marc Pubillo, Park the Bus, RB,80
+PTB_P09, Javi Galando, Park the Bus, LB,80
+PTB_P10, Robin Lenormando, Park the Bus, CB,85
+PTB_P11, Kokealito, Park the Bus, CM,86
+PTB_P12, Pablo Barrioso, Park the Bus, CM,82
+PTB_P13, Alex Baenaro, Park the Bus, AM,84
+PTB_P14, Marcos Llorento, Park the Bus, RM,86
+PTB_P15, Johnny Cardose, Park the Bus, DM,82
+PTB_P16, Connor Gallaguer, Park the Bus, CM,84
+PTB_P17, Antoine Griezmanno, Park the Bus, SS,88
+PTB_P18, Alexander Sorlutho, Park the Bus, ST,86
+PTB_P19, Thiago Almadino, Park the Bus, AM,81
+PTB_P20, Giacomo Raspadoro, Park the Bus, ST,82
